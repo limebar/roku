@@ -1,0 +1,30 @@
+{
+  "providerName": "Basspistol Libre Radio",
+  "lastUpdated": "2023-09-12T01:01:01+00:00",
+  "language": "en",
+  "liveFeeds": [
+    {
+      "id": "1",
+      "title": "Basspistol",
+      "content": {
+        "dateAdded": "2023-07-20T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://radio.basspistol.com/radio.mp3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.000webhostapp.com/thumb_basspistol.png",
+      "brandedThumbnail": "https://limebar.000webhostapp.com/thumb_basspistol.png",
+      "shortDescription": "The Outernational Music Syndicate - established in 2010 as a pro-active reaction to everything that is broken in the music-industry. Carrying the values of the Creative Commons. We believe in Music. https://basspistol.com/",
+      "longDescription": "The Outernational Music Syndicate"
+    }
+  ]
+}

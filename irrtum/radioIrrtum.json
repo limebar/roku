@@ -1,0 +1,587 @@
+{
+  "providerName": "Radio Irrtum!",
+  "lastUpdated": "2023-08-23T01:01:01+00:00",
+  "language": "en",
+
+  "liveFeeds": 
+  [
+    {
+      "id": "24",
+      "title": "Sendung 2023-10 — Trippy to India",
+      "content": {
+        "dateAdded": "2023-08-23T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://www.elektrische-lasagne.de/radioIrrtum/231028-2000-radio_irrtum_qaZwo.mp3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "brandedThumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "shortDescription": "Seltsame Kipplage führt zu Schwerpunkt auf Avantgard-Elektronik an ungewohnten Orten (wie Indien, 1970) auf obskuren Instrumenten. Sonst wie gewohnt Brandneues aus dem Underground.",
+      "longDescription": ""
+    },
+	
+    {
+      "id": "23",
+      "title": "Sendung 2023-09 special: Shortwaves from outa space (GDR Underground)",
+      "content": {
+        "dateAdded": "2023-08-23T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://www.elektrische-lasagne.de/radioIrrtum/230930-2000-radio_irrtum_qaEins.mp3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "brandedThumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "shortDescription": "Radiowellen reisen 17 Lichtjahre zum Sonnensystem Altair. Dort reflektiert brauchen sie weitere 17 Jahre zurück... Live von 1989: Radio Irrtum! Spezial. Über den DDR Underground.",
+      "longDescription": ""
+    },
+	
+    {
+      "id": "22",
+      "title": "Sendung 2023-09 - Ghosts in Town",
+      "content": {
+        "dateAdded": "2023-08-23T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://www.elektrische-lasagne.de/radioIrrtum/230805-2000-radio_irrtum_qa-eins.mp3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "brandedThumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "shortDescription": "Auch wenn es wieder Hiphop, Club, IDM, Bass & Punk geben wird, dominieren heute geisterhafte Effektketten, gespenstige Field Recordings & aus tiefstem Underground hallende Sounds.",
+      "longDescription": ""
+    },
+	
+    {
+      "id": "1",
+      "title": "Sendung 2023-08 - The Tausendsassa chill",
+      "content": {
+        "dateAdded": "2023-08-23T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://www.elektrische-lasagne.de/radioIrrtum/230805-2000-radio_irrtum_qa-eins.mp3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "brandedThumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "shortDescription": "Chillig relaxen, zügig rappen, clubby dancen, eckig IDMen, noisy innehalten, krass elektrifizieren, synkopiert jazzen, female punken, hardcore moshen usw.: Radio Irrtum! liefert.",
+      "longDescription": ""
+    },
+
+    {
+      "id": "2",
+      "title": "Sendung 2023-07 - The Meeting",
+      "content": {
+        "dateAdded": "2023-07-23T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://www.elektrische-lasagne.de/radioIrrtum/230708-2000-radio_irrtum_qa1.mp3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "brandedThumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "shortDescription":    "Hiphop meets Funk meets Musique Concrete meets Techno meets Western meets Hardcore Punk meets Experimental Pop meets Bass meets Alternative... Es ist einfach ein riesiges Meeting!",
+      "longDescription": ""
+    },
+
+    {
+      "id": "3",
+      "title": "Sendung 2023-06 - Rhythm is no dancer",
+      "content": {
+        "dateAdded": "2023-06-23T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://www.elektrische-lasagne.de/radioIrrtum/230610-2000-radio_irrtum-qa1.mp3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "brandedThumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "shortDescription":    "Keine Gefangenen, dafür BASS IN YER FACE! Und mehr noch: Klassische Klarinettistinnen, Hardcore Punkistinnen, kosmisch verstonter Präriejazz  u.s.w. — frisch aus dem Underground!",
+      "longDescription": ""
+    },
+
+    {
+      "id": "4",
+      "title": "Sendung 2023-05 - Sinnliche Wellen",
+      "content": {
+        "dateAdded": "2023-05-23T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://www.elektrische-lasagne.de/radioIrrtum/230513-2000-radio_irrtum_qa1.mp3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "brandedThumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "shortDescription":  "This time I'm in for more gentle music - still there will be some quite harsh tracks but not so much as usual - thus we'll visit more dreamy and sometimes calm realms whithout slipping into dump esoteric clichés.",
+      "longDescription": ""
+    },
+
+    {
+      "id": "5",
+      "title": "Sendung 2023-04 - Göttinnen und Götter. Ganz viele!",
+      "content": {
+        "dateAdded": "2023-04-23T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://www.elektrische-lasagne.de/radioIrrtum/230415-2000-radio_irrtum_abr214.mp3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "brandedThumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "shortDescription":    "Herr Irrtum! krümmt godlike den akustischen Raum: Mehr Platz für Japanpop. Mehr Space für Bass. Mehr Raum für Liedermacher, für Punk, für Beatz, Experimental Noise und c",
+      "longDescription": ""
+    },
+
+    {
+      "id": "6",
+      "title": "Sendung 2023-03 - Ist das noch Kultur?",
+      "content": {
+        "dateAdded": "2023-03-23T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://www.elektrische-lasagne.de/radioIrrtum/230318-2000-radio_irrtum_abr212.mp3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "brandedThumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "shortDescription":    "Ist das noch Kultur? Ist das noch Pop? Ist das noch Post Anything? Ist das noch Jazz? Ist das noch Stonerkraut? Ist das noch Punk? Weiß es der Spiegel? Weiß es Herr",
+      "longDescription": ""
+    },
+
+    {
+      "id": "7",
+      "title": "Sendung 2023-02 - Schlaf und Empörung",
+      "content": {
+        "dateAdded": "2023-02-23T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://www.elektrische-lasagne.de/radioIrrtum/230218-2000-radio_irrtum_abr209.mp3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "brandedThumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "shortDescription": "Was ist Doom Chanty? Was ist koreanisches Noise? Was passiert, wenn IDM auf Jazz trifft? Was ist polnische Neoklassik? Was sind Phemale Punk; Dark Cold Wave? Keine Antwor",
+      "longDescription": ""
+    },
+
+    {
+      "id": "8",
+      "title": "Sendung 2023-01 - Club Bretter",
+      "content": {
+        "dateAdded": "2023-01-23T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://www.elektrische-lasagne.de/radioIrrtum/230121-2000-radio_irrtum_abr224.mp3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "brandedThumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "shortDescription": "Lasst Euch an die Hand nehmen und mitnehmen auf eine Reise über groovy French/Italo Rap sowie NY Rap in einen phatten Block jeder Menge Club-Bretter. All das wird danach von Bass, Punk und verdammt gutem dunklen Indiekram",
+      "longDescription": ""
+    },
+
+    {
+      "id": "9",
+      "title": "Sendung 2022-12 - Trikotagen und Tabus",
+      "content": {
+        "dateAdded": "2022-12-23T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://www.elektrische-lasagne.de/radioIrrtum/221223-2000-radio_irrtum_abr.mp3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "brandedThumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "shortDescription":  "Ein Tauchgang in die abseitigsten #Underground-Untiefen: Während Rap, Pop, EasyListening, Noize, Filmmusik sowie Kassetten mit Punk, Hardcore, TrashElectronics u. Beats laufen, wird penibel untersucht, ob fehlende Nippletapes Massenerektionen hervorruf",
+      "longDescription": ""
+    },
+
+    {
+      "id": "10",
+      "title": "Sendung 2022-11 - Das große Rauschen",
+      "content": {
+        "dateAdded": "2022-11-23T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://www.elektrische-lasagne.de/radioIrrtum/221125-2000-radio_irrtum_abr.mp3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "brandedThumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "shortDescription": "Noise. Zum einen Lärm. Zum anderen Rauschen. Großes Rauschen, was alles gleich macht… ist nicht alles! Da ist noch Platz für Bass, Beats, Punk. Schaltet ein und werdet — — — —",
+      "longDescription": ""
+    },
+
+    {
+      "id": "11",
+      "title": "Sendung 2022-10 - Traumkino im Kopf (as aired on Alex Berlin)",
+      "content": {
+        "dateAdded": "2022-10-23T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://www.elektrische-lasagne.de/radioIrrtum/221029-2000-radio_irrtum_abr.mp3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "brandedThumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "shortDescription":    "In German: Ein Tauchgang hinab in musikalische Underground-Untiefen: U.a.: * Lofi Jazz * düstere Halftime * industrial Hip-Hop Noize * Death Grind * Cinnematic Folk aus der ČR . Und: Erstmals mit Minihörspiel-Intro!",
+      "longDescription": ""
+    },
+
+    {
+      "id": "12",
+      "title": "Sendung 2022-09 - Traumhaft galaktisch (as aired on Alex Berlin)",
+      "content": {
+        "dateAdded": "2022-09-23T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://www.elektrische-lasagne.de/radioIrrtum/radio_irrtum_2022-09.mp3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "brandedThumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "shortDescription":    "In German: Es wird spaciger als es je bei Radio Irrtum! wurde; wer genau hinhört wird bemerken, dass der Sender mitten in der Sendung von Aliens angegriffen wurde (die aber nur eine Richtigstellung durchsagen wollten), welche vom zum Glück Railgun tragenden Senderwachschutz eleminiert wurden. Musikalisch gibt es Cumbia Musik (mit cheap Space Echos!), glitchigen Beatmaker Stuff, spacy Bass mit Alien Voices, zeitgenössische Dronen-Klassik, Gothic Indiepop (spacefrei), erdigen Surfpunk, Intergallactinstrumental Jazz und: On top gibt es einen 90s Sampleworkshop mit Carl Orff, ein tolles Welttraumforscher Special und ich spiel auch mal kurz was am Klavier!",
+      "longDescription": ""
+    },
+
+    {
+      "id": "13",
+      "title": "Sendung 2022-08 - In fear of the super groups (premiere on Alex Berlin)",
+      "content": {
+        "dateAdded": "2022-08-23T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://www.elektrische-lasagne.de/radioIrrtum/fallback_radio_irrtum_2022-08_exactly_5930_abr224.mp3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "brandedThumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "shortDescription":    "In German: Mit experimental Pop, Dance, Bass, depressive Blackmetal mit einem gar seltsamen Twist, Punk, Feminine Riot und nicht zuletzt mit Climate Change Wave.",
+      "longDescription": ""
+    },
+
+    {
+      "id": "14",
+      "title": "Sendung 2022-07 - The wild bunch (Probesendung fuer Alex Berlin)",
+      "content": {
+        "dateAdded": "2022-07-23T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://www.elektrische-lasagne.de/radioIrrtum/radio_Irrtum_2022_06__exactly5930_really_final.mp3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "brandedThumbnail": "https://limebar.000webhostapp.com/thumb_irrtum.png",
+      "shortDescription":    "In German: Eine unglaubliche Reise durch honigsüßen #Pop, #NeoSoul aus Kreuzberg/Tel Aviv, #UKRap, #DnB aus Berlin, #Halftime #Bass, #Harsh #EBM, Oldskuhl #Punk, keinerlei Nick Cave, Space #Jazz, Real Jazz, Indierock und #Filmmusik erwartet Euch.",
+      "longDescription": ""
+    }
+],
+  
+  "movies": 
+  [
+    {
+      "id": "15",
+      "title": "Sendung 2022-05 - Is Acid back?!",
+      "content": {
+        "dateAdded": "2022-05-23T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://www.elektrische-lasagne.de/radioIrrtum/hiend_radio_irrtum_2022-05b.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.000webhostapp.com/thumb_irrtum_video.png",
+      "brandedThumbnail": "https://limebar.000webhostapp.com/thumb_irrtum_video.png",
+      "shortDescription": "This episode is dealing not only with #Acid, with #popmusic and sexual identity, a #Borsigwerke special, #Punk, #Postpunk, very very much of #bass music, #stonerrock, #indierock and believe it or not... #Deutschrap.",
+      "longDescription": ""
+    },
+
+    {
+      "id": "16",
+      "title": "Sendung 2022-01 - Best of 2k21",
+      "content": {
+        "dateAdded": "2022-01-23T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://www.elektrische-lasagne.de/radioIrrtum/hiend_radio_irrtum_2022-01_final.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.000webhostapp.com/thumb_irrtum_video.png",
+      "brandedThumbnail": "https://limebar.000webhostapp.com/thumb_irrtum_video.png",
+      "shortDescription": "Only (category) winners this time - and they take it all! In German btw.",
+      "longDescription": ""
+    },
+
+    {
+      "id": "17",
+      "title": "Sendung 2021-12 - Xmas sound confusion",
+      "content": {
+        "dateAdded": "2021-12-23T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://www.elektrische-lasagne.de/radioIrrtum/hiend_radio_irrtum_2021-12-appimage.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.000webhostapp.com/thumb_irrtum_video.png",
+      "brandedThumbnail": "https://limebar.000webhostapp.com/thumb_irrtum_video.png",
+      "shortDescription": "Get your inner ear massaged by independent pop music, evil bass music, EDM, Punk, Rock, Folk and Beatz. 1st time with a track analysis!",
+      "longDescription": ""
+    },
+
+    {
+      "id": "18",
+      "title": "Sendung 2021-09 - A journey into pop, UK retrofunk, beatMaker bliss, harshNoise, stoner rock and many many more",
+      "content": {
+        "dateAdded": "2021-09-23T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://www.elektrische-lasagne.de/radioIrrtum/hiend_radio_irrtum_2021-090a.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.000webhostapp.com/thumb_irrtum_video.png",
+      "brandedThumbnail": "https://limebar.000webhostapp.com/thumb_irrtum_video.png",
+      "shortDescription": "Get on a journey into German pop music, British retropunk, beat maker bliss, experimental harsh noise from China, bass music that isn't even bass music anymore, stoner rock from Dresden and many many more acoustical places you may not have been visited before!",
+      "longDescription": ""
+    },
+
+    {
+      "id": "19",
+      "title": "Sendung 2021-05 - Punk, Bass+Deathmetal Fusion, Indie, Hiphop, Kraut, Pop and a World Premiere.",
+      "content": {
+        "dateAdded": "2021-05-23T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://www.elektrische-lasagne.de/radioIrrtum/hiend_radioirrtum-2021-05.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.000webhostapp.com/thumb_irrtum_video.png",
+      "brandedThumbnail": "https://limebar.000webhostapp.com/thumb_irrtum_video.png",
+      "shortDescription": "Unfortunately recorded with a defective microphone (I didn't realize that during the recording and had to use a shitty fallback recording in post production) and serious video frame rate issues (couldn't be fixed in post production as well). But the music is ace as always, so it's still phun to watch!",
+      "longDescription": ""
+    },
+
+    {
+      "id": "20",
+      "title": "Sendung 2021-03 -  Kit Sebastian, Amusement Machine, Rudimentary Peni, Sibylle Baier, and more ",
+      "content": {
+        "dateAdded": "2021-03-23T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://www.elektrische-lasagne.de/radioIrrtum/hiend_radio_irrtum_2021-03.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.000webhostapp.com/thumb_irrtum_video.png",
+      "brandedThumbnail": "https://limebar.000webhostapp.com/thumb_irrtum_video.png",
+      "shortDescription": "",
+      "longDescription": ""
+    },
+
+    {
+      "id": "21",
+      "title": "Sendung 2020-12 - Best Music of 2020",
+      "content": {
+        "dateAdded": "2020-12-23T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://www.elektrische-lasagne.de/radioIrrtum/hiend_radio_irrtum2020-12c.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.000webhostapp.com/thumb_irrtum_video.png",
+      "brandedThumbnail": "https://limebar.000webhostapp.com/thumb_irrtum_video.png",
+      "shortDescription": "",
+      "longDescription": ""
+    }
+  ]
+}
