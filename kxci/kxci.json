@@ -1,1 +1,53 @@
-
+{
+  "providerName": "Radio Free Fedi",
+  "lastUpdated": "2023-07-28T01:01:01+00:00",
+  "language": "en",
+  "liveFeeds": [
+    {
+      "id": "1",
+      "title": "RFF",
+      "content": {
+        "dateAdded": "2023-07-20T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://ais-sa1.streamon.fm/7005_64k.mp3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.github.io/roku/rff/thumb_anything.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_anything.png",
+      "shortDescription": "The flagship main channel is a hyper diverse free form format lightly curated to not completely rip the paint off the wall or wear out your welcome but will challenge your listening style with hopefully fun results.",
+      "longDescription": ""
+    },
+    {
+      "id": "2",
+      "title": "RFF Comfy",
+      "content": {
+        "dateAdded": "2023-07-28T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "http://kxci.streamon.fm:8000/KXCI-48k.aac",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.github.io/roku/rff/thumb_comfy.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_comfy.png",
+      "shortDescription": "The Comfy channel was developed to smooth out the edges for our friends who require a softer experience. Still eclectic in genre and styles, it is RFF but without the jagged edges, intensity or harsh frequencies.",
+      "longDescription": ""
+    }
+  ]
+}
