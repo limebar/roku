@@ -5,7 +5,7 @@
   "liveFeeds": [
     {
       "id": "1",
-      "title": "KXCI MP3 64k",
+      "title": "KXCI 91.3 MP3 64k",
       "content": {
         "dateAdded": "2023-11-29T01:01:01+00:00",
         "videos": [
@@ -28,7 +28,7 @@
     },
     {
       "id": "2",
-      "title": "KXCI 93.1 AAC 48k",
+      "title": "KXCI 91.3 AAC 48k",
       "content": {
         "dateAdded": "2023-11-29T01:01:01+00:00",
         "videos": [
