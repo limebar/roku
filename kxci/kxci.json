@@ -1,13 +1,13 @@
 {
-  "providerName": "Radio Free Fedi",
-  "lastUpdated": "2023-07-28T01:01:01+00:00",
+  "providerName": "KXCI 91.3 Tucson Community Radio",
+  "lastUpdated": "2023-11-29T01:01:01+00:00",
   "language": "en",
   "liveFeeds": [
     {
       "id": "1",
-      "title": "RFF",
+      "title": "KXCI MP3 64k",
       "content": {
-        "dateAdded": "2023-07-20T01:01:01+00:00",
+        "dateAdded": "2023-11-29T01:01:01+00:00",
         "videos": [
           {
             "url": "https://ais-sa1.streamon.fm/7005_64k.mp3",
@@ -21,16 +21,16 @@
       "genres": [
         ""
       ],
-      "thumbnail": "https://limebar.github.io/roku/rff/thumb_anything.png",
+      "thumbnail":        "https://limebar.github.io/roku/rff/thumb_anything.png",
       "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_anything.png",
-      "shortDescription": "The flagship main channel is a hyper diverse free form format lightly curated to not completely rip the paint off the wall or wear out your welcome but will challenge your listening style with hopefully fun results.",
+      "shortDescription": "KXCI 91.3 Tucson Community Radio - MP4 64kbps high bandwidth.",
       "longDescription": ""
     },
     {
       "id": "2",
-      "title": "RFF Comfy",
+      "title": "KXCI 93.1 AAC 48k",
       "content": {
-        "dateAdded": "2023-07-28T01:01:01+00:00",
+        "dateAdded": "2023-11-29T01:01:01+00:00",
         "videos": [
           {
             "url": "http://kxci.streamon.fm:8000/KXCI-48k.aac",
@@ -44,9 +44,9 @@
       "genres": [
         ""
       ],
-      "thumbnail": "https://limebar.github.io/roku/rff/thumb_comfy.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_comfy.png",
-      "shortDescription": "The Comfy channel was developed to smooth out the edges for our friends who require a softer experience. Still eclectic in genre and styles, it is RFF but without the jagged edges, intensity or harsh frequencies.",
+      "thumbnail":        "https://limebar.github.io/roku/kxci/thumb_kxci_aac.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/kxci/thumb_kxci_aac.png",
+      "shortDescription": "KXCI 91.3 Tucson Community Radio - AAC format stream for lower bandwidth.",
       "longDescription": ""
     }
   ]
