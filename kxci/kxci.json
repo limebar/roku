@@ -5,6 +5,29 @@
   "liveFeeds": [
     {
       "id": "1",
+      "title": "KXCI 91.3 AAC 48k",
+      "content": {
+        "dateAdded": "2023-11-29T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "http://kxci.streamon.fm:8000/KXCI-48k.aac",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail":        "https://limebar.github.io/roku/kxci/thumb_kxci_aac.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/kxci/thumb_kxci_aac.png",
+      "shortDescription": "KXCI 91.3 Tucson Community Radio - preferred AAC 48kbps low bandwidth - is a diverse, independent, and community-based radio station serving Tucson and Southern Arizona. https://kxci.org/",
+      "longDescription": "KXCI 91.3 Tucson Community Radio"
+    },
+    {
+      "id": "2",
       "title": "KXCI 91.3 MP3 64k",
       "content": {
         "dateAdded": "2023-11-29T01:01:01+00:00",
@@ -24,29 +47,6 @@
       "thumbnail":        "https://limebar.github.io/roku/kxci/thumb_kxci_mp3.png",
       "brandedThumbnail": "https://limebar.github.io/roku/kxci/thumb_kxci_mp3.png",
       "shortDescription": "KXCI 91.3 Tucson Community Radio - MP3 64kbps high bandwidth - is a diverse, independent, and community-based radio station serving Tucson and Southern Arizona. https://kxci.org/",
-      "longDescription": "KXCI 91.3 Tucson Community Radio"
-    },
-    {
-      "id": "2",
-      "title": "KXCI 91.3 AAC 48k",
-      "content": {
-        "dateAdded": "2023-11-29T01:01:01+00:00",
-        "videos": [
-          {
-            "url": "http://kxci.streamon.fm:8000/KXCI-48k.aac",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 9999,
-        "language": "en"
-      },
-      "genres": [
-        ""
-      ],
-      "thumbnail":        "https://limebar.github.io/roku/kxci/thumb_kxci_aac.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/kxci/thumb_kxci_aac.png",
-      "shortDescription": "KXCI 91.3 Tucson Community Radio - AAC 48kbps low bandwidth - is a diverse, independent, and community-based radio station serving Tucson and Southern Arizona. https://kxci.org/",
       "longDescription": "KXCI 91.3 Tucson Community Radio"
     }
   ]
