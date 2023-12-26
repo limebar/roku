@@ -1,0 +1,181 @@
+{
+  "providerName": "aNONradio",
+  "lastUpdated": "2023-12-16T01:01:01+00:00",
+  "language": "en",
+  "liveFeeds": [
+    {
+      "id": "1",
+      "title": "aNONradio",
+      "content": {
+        "dateAdded": "2023-12-15T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "http://anonradio.net:8000/anonradio",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.000webhostapp.com/thumb_aNONradio.png",
+      "brandedThumbnail": "https://limebar.000webhostapp.com/thumb_aNONradio.png",
+      "shortDescription": "DJs on aNONradio.net are members of the SDF Public Access UNIX System Community. We fight for and promote the distribution and development of free software and the non-commercialization of the Internet. See sdf.org for more information.",
+      "longDescription": ""
+    }
+  ],
+  "movies": 
+  [
+    {
+      "id": "2",
+      "title": "2023-12-14",
+      "content": {
+        "dateAdded": "2022-05-23T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://archives.anonradio.net/202301010100_arochod.mp3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.000webhostapp.com/thumb_aNONradio.png",
+      "brandedThumbnail": "https://limebar.000webhostapp.com/thumb_aNONradio.png",
+      "shortDescription": "Arocho",
+      "longDescription": ""
+    }
+  ],
+  
+ "series": 
+	[
+		{
+			"id": "Sounds_of_Synergy",
+			"title": "Sounds of Synergy",
+			"releaseDate": "2023-12-15T02:01:00+02:00",
+			"shortDescription": "Sounds of Synergy Archives",
+			"thumbnail": "https://limebar.000webhostapp.com/thumb_aNONradio.png",
+			"genres": [
+				"educational"
+			],
+			"tags": ["dev-summit-series"],
+			"episodes": 
+			[
+				{
+					"id": "devsummit-1-intro-ep1",
+					"title": "2023-12-13",
+					"episodeNumber": 1,
+					"content": {
+						"dateAdded": "2020-10-15T02:32:24Z",
+						"videos": [{
+							"url": "https://archives.anonradio.net/202312132100_cynosphere.mp3",
+							"quality": "HD"
+						}],
+						"duration": 9999,
+						"language": "en-us"
+					},
+					"thumbnail": "https://limebar.000webhostapp.com/thumb_aNONradio.png",
+					"brandedThumbnail": "https://limebar.000webhostapp.com/thumb_aNONradio.png",
+					"releaseDate": "2020-10-13",
+					"longDescription": "Archive from 2023-12-13",
+					"tags": [],
+					"genres": [
+						"educational"
+					]
+				},
+				{
+					"id": "devsummit-1-intro-ep1",
+					"title": "2023-12-12",
+					"episodeNumber": 2,
+					"content": {
+						"dateAdded": "2020-10-15T02:32:24Z",
+						"videos": [{
+							"url": "https://archives.anonradio.net/202312132100_cynosphere.mp3",
+							"quality": "HD"
+						}],
+						"duration": 9999,
+						"language": "en-us"
+					},
+					"thumbnail": "https://limebar.000webhostapp.com/thumb_aNONradio.png",
+					"brandedThumbnail": "https://limebar.000webhostapp.com/thumb_aNONradio.png",
+					"releaseDate": "2020-10-13",
+					"longDescription": "Archive from 2023-12-13",
+					"tags": [],
+					"genres": [
+						"educational"
+					]
+				}
+
+			]
+		},
+				{
+			"id": "Sounds_of_Synergy2",
+			"title": "Sounds of Synergy2",
+			"releaseDate": "2023-12-15T02:01:00+02:00",
+			"shortDescription": "Sounds of Synergy Archives",
+			"thumbnail": "https://limebar.000webhostapp.com/thumb_aNONradio.png",
+			"genres": [
+				"educational"
+			],
+			"tags": ["dev-summit-series"],
+			"episodes": 
+			[
+				{
+					"id": "devsummit-1-intro-ep1",
+					"title": "2023-12-13",
+					"episodeNumber": 1,
+					"content": {
+						"dateAdded": "2020-10-15T02:32:24Z",
+						"videos": [{
+							"url": "https://archives.anonradio.net/202312132100_cynosphere.mp3",
+							"quality": "HD"
+						}],
+						"duration": 9999,
+						"language": "en-us"
+					},
+					"thumbnail": "https://limebar.000webhostapp.com/thumb_aNONradio.png",
+					"brandedThumbnail": "https://limebar.000webhostapp.com/thumb_aNONradio.png",
+					"releaseDate": "2020-10-13",
+					"longDescription": "Archive from 2023-12-13",
+					"tags": [],
+					"genres": [
+						"educational"
+					]
+				},
+				{
+					"id": "devsummit-1-intro-ep1",
+					"title": "2023-12-12",
+					"episodeNumber": 2,
+					"content": {
+						"dateAdded": "2020-10-15T02:32:24Z",
+						"videos": [{
+							"url": "https://archives.anonradio.net/202312132100_cynosphere.mp3",
+							"quality": "HD"
+						}],
+						"duration": 9999,
+						"language": "en-us"
+					},
+					"thumbnail": "https://limebar.000webhostapp.com/thumb_aNONradio.png",
+					"brandedThumbnail": "https://limebar.000webhostapp.com/thumb_aNONradio.png",
+					"releaseDate": "2020-10-13",
+					"longDescription": "Archive from 2023-12-13",
+					"tags": [],
+					"genres": [
+						"educational"
+					]
+				}
+
+			]
+		}
+
+	]	  
+
+  
+}
