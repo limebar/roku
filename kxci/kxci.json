@@ -10,7 +10,7 @@
         "dateAdded": "2023-11-29T01:01:01+00:00",
         "videos": [
           {
-            "url": "http://ais-sa1.streamon.fm/7005_48k.aac",
+            "url": "http://kxci.streamon.fm:8000/KXCI-48k.aac",
             "quality": "HD",
             "videoType": "MP4"
           }
