@@ -27,32 +27,6 @@
       "longDescription": ""
     }
   ],
-  "movies": 
-  [
-    {
-      "id": "2",
-      "title": "2023-12-14",
-      "content": {
-        "dateAdded": "2022-05-23T01:01:01+00:00",
-        "videos": [
-          {
-            "url": "https://archives.anonradio.net/202301010100_arochod.mp3",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 9999,
-        "language": "en"
-      },
-      "genres": [
-        ""
-      ],
-      "thumbnail": "https://limebar.github.io/roku/anonradio/thumb_anonradio.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/anonradio/thumb_anonradio.png",
-      "shortDescription": "Arocho",
-      "longDescription": ""
-    }
-  ],
   
  "series":[
 {"id":"ae","title":"Special Ed","releaseDate":"2023-12-15T02:01:00+02:00","shortDescription":"Special Ed Archives","thumbnail": "https://limebar.github.io/roku/anonradio/thumb_anonradio.png","genres":["music"],"tags":["music"],"episodes":[
