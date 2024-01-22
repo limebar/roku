@@ -1,0 +1,76 @@
+{
+  "providerName": "RetroStrange",
+  "lastUpdated": "2024-01-21T01:01:01+00:00",
+  "language": "en",
+  "liveFeeds": [
+    {
+      "id": "1",
+      "title": "Main",
+      "content": {
+        "dateAdded": "2023-07-20T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://live.retrostrange.com/9bdcb2bd-1530-441b-9ae5-f3280287c77d",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.github.io/roku/retrostrange/thumb_main.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/retrostrange/thumb_main.png",
+      "shortDescription": "A community-supported 24/7 streaming TV channel based on public domain media and original content. Support us at http://patreon.com/philnelson",
+      "longDescription": ""
+    },
+    {
+      "id": "2",
+      "title": "Select",
+      "content": {
+        "dateAdded": "2024-01-21T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://repeat.retrostrange.tv/38526649-c25e-413c-af6b-4150a0df5baf",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.github.io/roku/retrostrange/thumb_select.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_select.png",
+      "shortDescription": "RetroStrange Halloween Channel, part of RetroStrange.com, is a community supported 24/7 streaming station featuring Halloween-themed content.",
+      "longDescription": ""
+    },
+    {
+      "id": "3",
+      "title": "Radio",
+      "content": {
+        "dateAdded": "2024-01-21T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "http://retrostrange.com:8000/radio1-mp3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.github.io/roku/retrostrange/thumb_select.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_select.png",
+      "shortDescription": "RetroStrange Radio 1 Streaming Science Fiction Old Time Radio",
+      "longDescription": ""
+    }    
+  ]
+}
