@@ -33,7 +33,7 @@
         "dateAdded": "2024-01-21T01:01:01+00:00",
         "videos": [
           {
-            "url": "https://repeat.retrostrange.tv/",
+            "url": "https://repeat.retrostrange.tv/hls/stream.m3u8",
             "quality": "HD",
             "videoType": "MP4"
           }
