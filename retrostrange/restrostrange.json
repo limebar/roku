@@ -10,7 +10,7 @@
         "dateAdded": "2023-07-20T01:01:01+00:00",
         "videos": [
           {
-            "url": "https://live.retrostrange.com/9bdcb2bd-1530-441b-9ae5-f3280287c77d",
+            "url": "https://live.retrostrange.com/",
             "quality": "HD",
             "videoType": "MP4"
           }
@@ -33,7 +33,7 @@
         "dateAdded": "2024-01-21T01:01:01+00:00",
         "videos": [
           {
-            "url": "https://repeat.retrostrange.tv/38526649-c25e-413c-af6b-4150a0df5baf",
+            "url": "https://repeat.retrostrange.tv/",
             "quality": "HD",
             "videoType": "MP4"
           }
@@ -67,8 +67,8 @@
       "genres": [
         ""
       ],
-      "thumbnail": "https://limebar.github.io/roku/retrostrange/thumb_select.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_select.png",
+      "thumbnail": "https://limebar.github.io/roku/retrostrange/thumb_radio.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_radio.png",
       "shortDescription": "RetroStrange Radio 1 Streaming Science Fiction Old Time Radio",
       "longDescription": ""
     }    
