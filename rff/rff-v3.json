@@ -90,9 +90,9 @@
       "genres": [
         ""
       ],
-      "thumbnail": "https://limebar.github.io/roku/rff/thumb_specialty.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_specialty.png",
-      "shortDescription": "This stream is for the main channel simulcast, hangouts and chat, and special events!",
+      "thumbnail": "https://limebar.github.io/roku/rff/thumb_party.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_party.png",
+      "shortDescription": "This video stream is for hangouts and chat and special events! Check https://radiofreefedi.net for event schedule. Will simulcast audio when no events are active.",
       "longDescription": ""
     }
   ]
