@@ -1,5 +1,5 @@
 {
-  "providerName": "RetroStrange",
+  "providerName": "RetroStrange TV",
   "lastUpdated": "2024-01-21T01:01:01+00:00",
   "language": "en",
   "liveFeeds": [
@@ -28,7 +28,7 @@
     },
     {
       "id": "2",
-      "title": "Select",
+      "title": "RetroStrange Halloween TV",
       "content": {
         "dateAdded": "2024-01-21T01:01:01+00:00",
         "videos": [
