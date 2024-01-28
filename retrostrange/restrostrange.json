@@ -1,11 +1,11 @@
 {
-  "providerName": "RetroStrange TV",
+  "providerName": "RetroStrange",
   "lastUpdated": "2024-01-21T01:01:01+00:00",
   "language": "en",
   "liveFeeds": [
     {
       "id": "1",
-      "title": "Main",
+      "title": "RetroStrange TV",
       "content": {
         "dateAdded": "2023-07-20T01:01:01+00:00",
         "videos": [
@@ -51,7 +51,7 @@
     },
     {
       "id": "3",
-      "title": "Radio1",
+      "title": "RetroStrange Radio1",
       "content": {
         "dateAdded": "2024-01-21T01:01:01+00:00",
         "videos": [
