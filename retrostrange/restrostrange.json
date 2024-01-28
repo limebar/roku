@@ -51,7 +51,7 @@
     },
     {
       "id": "3",
-      "title": "Radio",
+      "title": "Radio1",
       "content": {
         "dateAdded": "2024-01-21T01:01:01+00:00",
         "videos": [
@@ -71,6 +71,29 @@
       "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_radio.png",
       "shortDescription": "RetroStrange Radio 1 Streaming Science Fiction Old Time Radio",
       "longDescription": ""
-    }    
+    } ,
+    {
+      "id": "4",
+      "title": "Hank Radio",
+      "content": {
+        "dateAdded": "2024-01-27T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "http://retrostrange.com:8000/hank-mp3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.github.io/roku/retrostrange/thumb_radio.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_radio.png",
+      "shortDescription": "A selection of songs hosted & curated by Henry Nelson.",
+      "longDescription": ""
+    }   
   ]
 }
