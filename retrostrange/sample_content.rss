@@ -18,7 +18,7 @@
       <description>With the Twitch channel, you can watch the most popular broadcasts of the day, browse live broadcasts by the games you love and follow your favorite Twitch broadcasters.</description>
       <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
       <guid isPermaLink="false">decbe34b64ea4ca281dc09997d0f23fd</guid>
-      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="https://live.retrostrange.com/hls/stream.m3u8">
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="application/vnd.apple.mpegurl" width="1280" isDefault="true" url="https://live.retrostrange.com/hls/stream.m3u8">
         <media:description>With the Twitch channel, you can watch the most popular broadcasts of the day, browse live broadcasts by the games you love and follow your favorite Twitch broadcasters.</media:description>
         <media:keywords>episode 21, roku recommends, twitch</media:keywords>
         <media:thumbnail url="https://devtools.web.roku.com/samples/images/rr/j5_.540x304.jpeg" />
