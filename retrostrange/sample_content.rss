@@ -26,12 +26,12 @@
       </media:content>
     </item>
     <item>
-      <title>Let's Get Cookin'</title>
+      <title>Comfy</title>
       <link>https://devtools.web.roku.com/samples/video/rr/roku_ep_115_segment_5_paula_nw_050515.mp4</link>
       <description>The Paula Deen Channel is your instant access to Paula Deen’s new and hilarious cooking and lifestyle shows. Paula and her sons,  Jamie and Bobby, will cook up their delicious southern recipes and help you with hints and tips that make meal planning simple, affordable and easy.</description>
       <pubDate>Thu, 21 May 2015 18:47:20 GMT</pubDate>
       <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
-      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="https://devtools.web.roku.com/samples/video/rr/roku_ep_115_segment_5_paula_nw_050515.mp4">
+      <media:content  url="https://radio.radiofreefedi.net/listen/comfy/comfy.mp3">
         <media:description>The Paula Deen Channel is your instant access to Paula Deen’s new and hilarious cooking and lifestyle shows. Paula and her sons,  Jamie and Bobby, will cook up their delicious southern recipes and help you with hints and tips that make meal planning simple, affordable and easy.</media:description>
         <media:keywords>episode 18, paula deen, roku recommends</media:keywords>
         <media:thumbnail url="https://devtools.web.roku.com/samples/images/rr/JME.540x304.jpeg" />
