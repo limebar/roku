@@ -18,13 +18,14 @@
         "duration": 9999,
         "language": "en"
       },
+      "releaseDate": "2020-01-15",
       "genres": [
-        ""
+        "Retro TV"
       ],
       "thumbnail": "https://limebar.github.io/roku/retrostrange/thumb_main.png",
       "brandedThumbnail": "https://limebar.github.io/roku/retrostrange/thumb_main.png",
       "shortDescription": "A community-supported 24/7 streaming TV channel based on public domain media and original content. Support us at http://patreon.com/philnelson",
-      "longDescription": ""
+      "longDescription": "A community-supported 24/7 streaming TV channel based on public domain media and original content. Support us at http://patreon.com/philnelson"
     },
     {
       "id": "2",
@@ -41,13 +42,14 @@
         "duration": 9999,
         "language": "en"
       },
+      "releaseDate": "2020-01-15",
       "genres": [
-        ""
+        "Retro Halloween"
       ],
       "thumbnail": "https://limebar.github.io/roku/retrostrange/thumb_select.png",
       "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_select.png",
       "shortDescription": "RetroStrange Halloween Channel, part of RetroStrange.com, is a community supported 24/7 streaming station featuring Halloween-themed content.",
-      "longDescription": ""
+      "longDescription": "RetroStrange Halloween Channel, part of RetroStrange.com, is a community supported 24/7 streaming station featuring Halloween-themed content."
     },
     {
       "id": "3",
@@ -64,13 +66,14 @@
         "duration": 9999,
         "language": "en"
       },
+      "releaseDate": "2020-01-15",
       "genres": [
-        ""
+        "Retro Radio"
       ],
       "thumbnail": "https://limebar.github.io/roku/retrostrange/thumb_radio.png",
       "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_radio.png",
       "shortDescription": "RetroStrange Radio1 - A 24/7 stream of Old Time Radio science fiction programs such as Dimension X and X-Minus One.",
-      "longDescription": ""
+      "longDescription": "RetroStrange Radio1 - A 24/7 stream of Old Time Radio science fiction programs such as Dimension X and X-Minus One."
     }    
   ]
 }
