@@ -60,7 +60,7 @@
           {
             "url": "http://retrostrange.com:8000/radio1-mp3",
             "quality": "HD",
-            "videoType": "HLS"
+            "videoType": "MP4"
           }
         ],
         "duration": 9999,
