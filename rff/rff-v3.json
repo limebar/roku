@@ -94,6 +94,29 @@
       "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_party.png",
       "shortDescription": "Video stream for special events! Check https://party.radiofreefedi.net/ for upcoming events. Simulcasts audio when no events are active.",
       "longDescription": ""
+    },
+    {
+      "id": "5",
+      "title": "RFF FediVision 2024",
+      "content": {
+        "dateAdded": "2024-05-19T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "http://relay.radiofreefedi.net/listen/fedivision/fedi24.mp3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.github.io/roku/rff/thumb_fedivision.jpg",
+      "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_fedivision.jpg",
+      "shortDescription": "VFediVision is a light-hearted musical competition among amateur musicians on the Fediverse. With artist consent and in cooperation with the contest, RFF are running a pop-up channel as a fun alternative means to celebrate the artists and enjoy their participation.",
+      "longDescription": ""
     }
   ]
 }
