@@ -48,7 +48,7 @@
       "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_comfy.png",
       "shortDescription": "The Comfy channel was developed to smooth out the edges for our friends who require a softer experience. Still eclectic in genre and styles, it is RFF but without the jagged edges, intensity or harsh frequencies.",
       "longDescription": ""
-    },
+    },    
     {
       "id": "3",
       "title": "RFF Specialty",
@@ -70,6 +70,29 @@
       "thumbnail": "https://limebar.github.io/roku/rff/thumb_specialty.png",
       "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_specialty.png",
       "shortDescription": "The specialty channel is a rotating hourly themed block programmed channel that will feature artists/tracks from Main and Comfy but also offer listeners the choice to expect a certain sound/vibe. Schedule at radiofreefedi.net",
+      "longDescription": ""
+    },
+    {
+      "id": "4",
+      "title": "RFF Word",
+      "content": {
+        "dateAdded": "2024-08-06T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "http://relay.radiofreefedi.net/listen/word/word.mp3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.github.io/roku/rff/thumb_word.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_word.png",
+      "shortDescription": "The RFF Word channel will feature all manner of non-music original spoken material and rotate between short, medium and longer form works of spoken word, poetry, drama, fiction, informative, discussion, interview, presentation et al.",
       "longDescription": ""
     }
   ]
