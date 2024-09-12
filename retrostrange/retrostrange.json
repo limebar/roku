@@ -50,30 +50,6 @@
       "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_select.png",
       "shortDescription": "RetroStrange Halloween Channel, part of RetroStrange.com, is a community supported 24/7 streaming station featuring Halloween-themed content.",
       "longDescription": "RetroStrange Halloween Channel, part of RetroStrange.com, is a community supported 24/7 streaming station featuring Halloween-themed content."
-    },
-    {
-      "id": "3",
-      "title": "RetroStrange Radio1",
-      "content": {
-        "dateAdded": "2024-01-21T01:01:01+00:00",
-        "videos": [
-          {
-            "url": "http://retrostrange.com:8000/radio1-mp3",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 9999,
-        "language": "en"
-      },
-      "releaseDate": "2020-01-15",
-      "genres": [
-        "Retro Radio"
-      ],
-      "thumbnail": "https://limebar.github.io/roku/retrostrange/thumb_radio.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_radio.png",
-      "shortDescription": "RetroStrange Radio1 - A 24/7 stream of Old Time Radio science fiction programs such as Dimension X and X-Minus One.",
-      "longDescription": "RetroStrange Radio1 - A 24/7 stream of Old Time Radio science fiction programs such as Dimension X and X-Minus One."
-    }    
+    }
   ]
 }
