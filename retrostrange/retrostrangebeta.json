@@ -12,7 +12,7 @@
           {
             "url": "https://retrostrange.com/shared/roku/video/RetroStrange Promo - No Trackers (2024).m4v",
             "quality": "HD",
-            "videoType": "HLS"
+            "videoType": "M4V"
           }
         ],
         "duration": 9999,
@@ -24,8 +24,8 @@
       ],
       "thumbnail": "https://limebar.github.io/roku/retrostrange/thumb_main.png",
       "brandedThumbnail": "https://limebar.github.io/roku/retrostrange/thumb_main.png",
-      "shortDescription": "A community-supported 24/7 streaming TV channel based on public domain media and original content. Support us at http://patreon.com/philnelson",
-      "longDescription": "A community-supported 24/7 streaming TV channel based on public domain media and original content. Support us at http://patreon.com/philnelson"
+      "shortDescription": "A short promo and trailer for the channel. No ads, no tracking, ever! https://retrostrange.com",
+      "longDescription": "A short promo and trailer for the channel. No ads, no tracking, ever! https://retrostrange.com"
     }
   ],
   "liveFeeds": [
