@@ -22,8 +22,8 @@
       "genres": [
         "Retro TV"
       ],
-      "thumbnail": "https://retrostrange.com/shared/roku/RSTV1%20Roku%20Thumb.png",
-      "brandedThumbnail": "https://retrostrange.com/shared/roku/RSTV1%20Roku%20Thumb.png",
+      "thumbnail": "https://limebar.github.io/roku/retrostrange/thumb_promo.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/retrostrange/thumb_promo.png",
       "shortDescription": "A short trailer for the channel. No ads, no tracking, ever! https://retrostrange.com",
       "longDescription": "A short trailer for the channel. No ads, no tracking, ever! https://retrostrange.com"
     }
@@ -48,8 +48,8 @@
       "genres": [
         "Retro TV"
       ],
-      "thumbnail": "https://limebar.github.io/roku/retrostrange/thumb_main.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/retrostrange/thumb_main.png",
+      "thumbnail": "https://retrostrange.com/shared/roku/RSTV1%20Roku%20Thumb.png",
+      "brandedThumbnail": "https://retrostrange.com/shared/roku/RSTV1%20Roku%20Thumb.png",
       "shortDescription": "A community-supported 24/7 streaming TV channel based on public domain media and original content. Support us at http://patreon.com/philnelson",
       "longDescription": "A community-supported 24/7 streaming TV channel based on public domain media and original content. Support us at http://patreon.com/philnelson"
     },
