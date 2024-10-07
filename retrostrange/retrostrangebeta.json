@@ -22,8 +22,8 @@
       "genres": [
         "Retro TV"
       ],
-      "thumbnail": "https://limebar.github.io/roku/retrostrange/thumb_promo.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/retrostrange/thumb_promo.png",
+      "thumbnail": "https://retrostrange.com/shared/roku/RSTV1%20Roku%20Thumb.png",
+      "brandedThumbnail": "https://retrostrange.com/shared/roku/RSTV1%20Roku%20Thumb.png",
       "shortDescription": "A short trailer for the channel. No ads, no tracking, ever! https://retrostrange.com",
       "longDescription": "A short trailer for the channel. No ads, no tracking, ever! https://retrostrange.com"
     }
@@ -72,8 +72,8 @@
       "genres": [
         "Retro Halloween"
       ],
-      "thumbnail": "https://limebar.github.io/roku/retrostrange/thumb_select.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_select.png",
+      "thumbnail": "https://retrostrange.com/shared/roku/RSTV%20Halloween%20Roku%20Thumb.png",
+      "brandedThumbnail": "https://retrostrange.com/shared/roku/RSTV%20Halloween%20Roku%20Thumb.png",
       "shortDescription": "RetroStrange Halloween Channel, part of RetroStrange.com, is a community supported 24/7 streaming station featuring Halloween-themed content.",
       "longDescription": "RetroStrange Halloween Channel, part of RetroStrange.com, is a community supported 24/7 streaming station featuring Halloween-themed content."
     },
@@ -96,8 +96,8 @@
       "genres": [
         "Retro Radio"
       ],
-      "thumbnail": "https://limebar.github.io/roku/retrostrange/thumb_radio.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_radio.png",
+      "thumbnail": "https://retrostrange.com/shared/roku/RSRadio1%20Thumb.png",
+      "brandedThumbnail": "https://retrostrange.com/shared/roku/RSRadio1%20Thumb.png",
       "shortDescription": "RetroStrange Radio1 - A 24/7 stream of Old Time Radio science fiction programs such as Dimension X and X-Minus One.",
       "longDescription": "RetroStrange Radio1 - A 24/7 stream of Old Time Radio science fiction programs such as Dimension X and X-Minus One."
     }    
