@@ -12,7 +12,7 @@
           {
             "url": "https://azura.theindiebeat.fm/listen/the_indie_beat_radio_fm/radio.mp3",
             "quality": "HD",
-            "videoType": "HLS"
+            "videoType": "SMOOTH"
           }
         ],
         "duration": 9999,
@@ -23,8 +23,8 @@
       ],
       "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_everything.png",
       "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_everything.png",
-      "shortDescription": "A random shuffle of the firehose of Fedimusic",
-      "longDescription": "A random shuffle of the firehose of Fedimusic"
+      "shortDescription": "A random shuffle of the firehose of Fedimusic. https://theindiebeat.fm/",
+      "longDescription": "A random shuffle of the firehose of Fedimusic. https://theindiebeat.fm/"
     },
     {
       "id": "2",
@@ -35,7 +35,7 @@
           {
             "url": "https://azura.theindiebeat.fm/listen/the_indie_beat_radio_-_ambient/radio.mp3",
             "quality": "HD",
-            "videoType": "MP4"
+            "videoType": "SMOOTH"
           }
         ],
         "duration": 9999,
@@ -44,10 +44,10 @@
       "genres": [
         ""
       ],
-      "thumbnail": "https://limebar.github.io/roku/rff/thumb_comfy.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_comfy.png",
-      "shortDescription": "Showcasing Ambient tunes from the Fediverse.",
-      "longDescription": ""
+      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_ambient.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_ambient.png",
+      "shortDescription": "Showcasing Ambient tunes from the Fediverse. https://theindiebeat.fm/",
+      "longDescription": "Showcasing Ambient tunes from the Fediverse. https://theindiebeat.fm/"
     },    
     {
       "id": "3",
@@ -67,10 +67,10 @@
       "genres": [
         ""
       ],
-      "thumbnail": "https://limebar.github.io/roku/rff/thumb_specialty.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_specialty.png",
-      "shortDescription": "Showcasing Electronic tunes from the Fediverse",
-      "longDescription": ""
+      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_electronic.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_electronic.png",
+      "shortDescription": "Showcasing Electronic tunes from the Fediverse. https://theindiebeat.fm/",
+      "longDescription": "Showcasing Electronic tunes from the Fediverse. https://theindiebeat.fm/"
     },
     {
       "id": "4",
@@ -81,7 +81,7 @@
           {
             "url": "https://azura.theindiebeat.fm/listen/the_indie_beat_radio_-_jazz/radio.mp3",
             "quality": "HD",
-            "videoType": "MOV"
+            "videoType": "SMOOTH"
           }
         ],
         "duration": 9999,
@@ -90,10 +90,10 @@
       "genres": [
         ""
       ],
-      "thumbnail": "https://limebar.github.io/roku/rff/thumb_word.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_word.png",
-      "shortDescription": "Showcasing Jazz tunes from the Fediverse",
-      "longDescription": ""
+      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_jazz.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_jazz.png",
+      "shortDescription": "Showcasing Jazz tunes from the Fediverse. https://theindiebeat.fm/",
+      "longDescription": "Showcasing Jazz tunes from the Fediverse. https://theindiebeat.fm/"
     }
   ]
 }
