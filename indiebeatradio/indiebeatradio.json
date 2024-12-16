@@ -58,7 +58,7 @@
           {
             "url": "https://azura.theindiebeat.fm/listen/the_indie_beat_radio_-_electronic/radio.mp3",
             "quality": "HD",
-            "videoType": "MP4"
+            "videoType": "SMOOTH"
           }
         ],
         "duration": 9999,
@@ -81,7 +81,7 @@
           {
             "url": "https://azura.theindiebeat.fm/listen/the_indie_beat_radio_-_jazz/radio.mp3",
             "quality": "HD",
-            "videoType": "MP4"
+            "videoType": "MOV"
           }
         ],
         "duration": 9999,
