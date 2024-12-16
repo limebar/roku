@@ -86,7 +86,7 @@
           {
             "url": "https://retrostrange.com:8000/radio1-mp3",
             "quality": "HD",
-            "videoType": "MP4"
+            "videoType": "SMOOTH"
           }
         ],
         "duration": 9999,
