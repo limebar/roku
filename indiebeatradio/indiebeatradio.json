@@ -1,0 +1,99 @@
+{
+  "providerName": "Indie Beat Radio",
+  "lastUpdated": "2024-12-16T01:01:01+00:00",
+  "language": "en",
+  "liveFeeds": [
+    {
+      "id": "1",
+      "title": "Everything",
+      "content": {
+        "dateAdded": "2024-12-16T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://azura.theindiebeat.fm/listen/the_indie_beat_radio_fm/radio.mp3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.github.io/roku/rff/thumb_anything.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_anything.png",
+      "shortDescription": "A random shuffle of the firehose of Fedimusic.",
+      "longDescription": ""
+    },
+    {
+      "id": "2",
+      "title": "Ambient",
+      "content": {
+        "dateAdded": "2024-12-16T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://azura.theindiebeat.fm/listen/the_indie_beat_radio_-_ambient/radio.mp3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.github.io/roku/rff/thumb_comfy.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_comfy.png",
+      "shortDescription": "Showcasing Ambient tunes from the Fediverse.",
+      "longDescription": ""
+    },    
+    {
+      "id": "3",
+      "title": "Electronic",
+      "content": {
+        "dateAdded": "2024-12-16T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://azura.theindiebeat.fm/listen/the_indie_beat_radio_-_electronic/radio.mp3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.github.io/roku/rff/thumb_specialty.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_specialty.png",
+      "shortDescription": "Showcasing Electronic tunes from the Fediverse",
+      "longDescription": ""
+    },
+    {
+      "id": "4",
+      "title": "Jazz",
+      "content": {
+        "dateAdded": "2024-12-16T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://azura.theindiebeat.fm/listen/the_indie_beat_radio_-_jazz/radio.mp3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.github.io/roku/rff/thumb_word.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_word.png",
+      "shortDescription": "Showcasing Jazz tunes from the Fediverse",
+      "longDescription": ""
+    }
+  ]
+}
