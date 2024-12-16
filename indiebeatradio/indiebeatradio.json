@@ -12,19 +12,19 @@
           {
             "url": "https://azura.theindiebeat.fm/listen/the_indie_beat_radio_fm/radio.mp3",
             "quality": "HD",
-            "videoType": "MP4"
+            "videoType": "HLS"
           }
         ],
         "duration": 9999,
         "language": "en"
       },
       "genres": [
-        ""
+        "Music"
       ],
-      "thumbnail": "https://limebar.github.io/roku/rff/thumb_anything.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/rff/thumb_anything.png",
-      "shortDescription": "A random shuffle of the firehose of Fedimusic.",
-      "longDescription": ""
+      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_everything.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_everything.png",
+      "shortDescription": "A random shuffle of the firehose of Fedimusic",
+      "longDescription": "A random shuffle of the firehose of Fedimusic"
     },
     {
       "id": "2",
