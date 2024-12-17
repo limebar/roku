@@ -1,7 +1,7 @@
 {
   "providerName": "Indie Beat Radio",
   "lastUpdated": "2024-12-16T01:01:01+00:00",
-  "language": "en",
+  "language": "en",  
   "liveFeeds": [
     {
       "id": "1",
@@ -94,6 +94,29 @@
       "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_jazz.png",
       "shortDescription": "Showcasing Jazz tunes from the Fediverse. https://theindiebeat.fm/",
       "longDescription": "Showcasing Jazz tunes from the Fediverse. https://theindiebeat.fm/"
-    }
+    },
+    {
+      "id": "5",
+      "title": "Live",
+      "content": {
+        "dateAdded": "2024-12-16T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://live.theindiebeat.fm/hls/stream.m3u8",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_live.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_live.png",
+      "shortDescription": "The Indie Beat Radio also hosts a live streaming channel located at https://live.theindiebeat.fm/",
+      "longDescription": "The Indie Beat Radio also hosts a live streaming channel located at https://live.theindiebeat.fm/"
+    }    
   ]
 }
