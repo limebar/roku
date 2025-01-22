@@ -100,6 +100,30 @@
       "brandedThumbnail": "https://retrostrange.com/shared/roku/RSRadio1%20Thumb.png",
       "shortDescription": "RetroStrange Radio1 - A 24/7 stream of Old Time Radio science fiction programs such as Dimension X and X-Minus One.",
       "longDescription": "RetroStrange Radio1 - A 24/7 stream of Old Time Radio science fiction programs such as Dimension X and X-Minus One."
+    },    
+    {
+      "id": "stream4",
+      "title": "RetroStrange Radio2",
+      "content": {
+        "dateAdded": "2024-01-21T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://icecast.retrostrange.com:8443/retrostrange-radio2-mp3",
+            "quality": "HD",
+            "videoType": "SMOOTH"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "releaseDate": "2020-01-15",
+      "genres": [
+        "Retro Radio"
+      ],
+      "thumbnail": "https://retrostrange.com/shared/roku/RSRadio1%20Thumb.png",
+      "brandedThumbnail": "https://retrostrange.com/shared/roku/RSRadio1%20Thumb.png",
+      "shortDescription": "RetroStrange Radio2 - A 24/7 stream of public domain music from the 1920s and 1930s.",
+      "longDescription": "RetroStrange Radio2 - A 24/7 stream of public domain music from the 1920s and 1930s."
     }    
   ]
 }
