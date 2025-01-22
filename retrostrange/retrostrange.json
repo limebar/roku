@@ -86,7 +86,7 @@
           {
             "url": "https://icecast.retrostrange.com:8443/retrostrange-radio1-ogg.m3u",
             "quality": "HD",
-            "videoType": "MP4"
+            "videoType": "DASH"
           }
         ],
         "duration": 9999,
