@@ -84,7 +84,7 @@
         "dateAdded": "2024-01-21T01:01:01+00:00",
         "videos": [
           {
-            "url": "https://icecast.retrostrange.com:8443/retrostrange-radio1-ogg.m3u",
+            "url": "https://icecast.retrostrange.com:8443/retrostrange-radio1-mp3",
             "quality": "HD",
             "videoType": "HLS"
           }
