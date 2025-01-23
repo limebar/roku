@@ -2,7 +2,7 @@
   "providerName": "RetroStrange Beta",
   "lastUpdated": "2024-01-21T01:01:01+00:00",
   "language": "en",  
-  "movies": [
+  "RetroStrange TV": [
     {
       "id": "1",
       "title": "RetroStrange TV",
@@ -50,7 +50,9 @@
       "brandedThumbnail": "https://limebar.github.io/roku/retrostrange/RSTV%20Halloween%20Roku%20Thumb.png",
       "shortDescription": "RetroStrange Halloween Channel, part of RetroStrange.com, is a community supported 24/7 streaming station featuring Halloween-themed content.",
       "longDescription": "RetroStrange Halloween Channel, part of RetroStrange.com, is a community supported 24/7 streaming station featuring Halloween-themed content."
-    },
+    }    
+  ],
+  "RetroStrange Radio": [
     {
       "id": "3",
       "title": "RetroStrange Radio1",
