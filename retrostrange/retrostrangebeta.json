@@ -2,7 +2,7 @@
   "providerName": "RetroStrange Beta",
   "lastUpdated": "2024-01-21T01:01:01+00:00",
   "language": "en",  
-  "tv": [
+  "movies": [
     {
       "id": "1",
       "title": "RetroStrange TV",
@@ -50,9 +50,7 @@
       "brandedThumbnail": "https://limebar.github.io/roku/retrostrange/RSTV%20Halloween%20Roku%20Thumb.png",
       "shortDescription": "RetroStrange Halloween Channel, part of RetroStrange.com, is a community supported 24/7 streaming station featuring Halloween-themed content.",
       "longDescription": "RetroStrange Halloween Channel, part of RetroStrange.com, is a community supported 24/7 streaming station featuring Halloween-themed content."
-    }    
-  ],
-  "radio": [
+    },      
     {
       "id": "3",
       "title": "RetroStrange Radio1",
@@ -100,6 +98,30 @@
       "brandedThumbnail": "https://limebar.github.io/roku/retrostrange/RSRadio2%20Thumb.png",
       "shortDescription": "RetroStrange Radio2 - A 24/7 stream of public domain music from the 1920s and 1930s.",
       "longDescription": "RetroStrange Radio2 - A 24/7 stream of public domain music from the 1920s and 1930s."
-    }    
+    },
+    {
+      "id": "5",
+      "title": "RetroStrange Channel Promo",
+      "content": {
+        "dateAdded": "2023-07-20T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://retrostrange.com/shared/roku/video/RetroStrange%20Promo%20-%20No%20Trackers%20(2024).m4v",
+            "quality": "HD",
+            "videoType": "M4V"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "releaseDate": "2020-01-15",
+      "genres": [
+        "Retro TV"
+      ],
+      "thumbnail": "https://limebar.github.io/roku/retrostrange/thumb_promo.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/retrostrange/thumb_promo.png",
+      "shortDescription": "A short trailer for the channel. No ads, no tracking, ever! https://retrostrange.com",
+      "longDescription": "A short trailer for the channel. No ads, no tracking, ever! https://retrostrange.com"
+    }
   ]
 }
