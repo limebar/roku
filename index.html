@@ -55,6 +55,25 @@ canvas{
         </a>
   </center>  
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+
+<script>
+    function setOverlay(overlay) {
+        jQuery("html").toggleClass(overlay);
+    }
+
+    $(document).ready(function() {
+        jQuery('.intro a').hover(
+            function() {
+                setOverlay(this.id)
+            },
+            function() {
+                setOverlay(this.id)
+            }
+        );
+    });
+</script>
+
 <canvas id ='canv'>
 
 <script language="javascript">
