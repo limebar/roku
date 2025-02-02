@@ -1,24 +1,6 @@
 <html>
-<head>
-<style>
-body{
-width:100%;
-margin:0;
-overflow:hidden; 
-background:hsla(0,0%,0%,1);
-
-}
-canvas{
-  width:100%;
-  height:100vh;
-  margin:0;
-  background:hsla(0,0%,0%,1);
-}
-</style>
-</head>
   
 <body>
-  <div class="overlay"></div>
   <center>       
         <a href="https://channelstore.roku.com/details/1935236acb98278a728dd17721fc3bbf/the-indie-beat-radio" title="The Indie Beat FM">
            <img width=200 height=200 src="images/tibrlogo400x400.jpg" alt="TheIndieBeatFM" />
@@ -55,95 +37,48 @@ canvas{
         </a>
   </center>  
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+  <style>
+    @import url("https://use.typekit.net/oha7crf.css");
+    </style>
 
-<script>
-    function setOverlay(overlay) {
-        jQuery("html").toggleClass(overlay);
-    }
+    <canvas id="canv" width="32" height="32">
 
-    $(document).ready(function() {
-        jQuery('.intro a').hover(
-            function() {
-                setOverlay(this.id)
-            },
-            function() {
-                setOverlay(this.id)
+        <script language="javascript">
+        var c = document.getElementById('canv');
+        var $ = c.getContext('2d');
+
+
+        var col = function(x, y, r, g, b) {
+            $.fillStyle = "rgb(" + r + "," + g + "," + b + ")";
+            $.fillRect(x, y, 1, 1);
+        }
+        var R = function(x, y, t) {
+            return (Math.floor(192 + 64 * Math.cos((x * x - y * y) / 300 + t)));
+        }
+
+        var G = function(x, y, t) {
+            return (Math.floor(192 + 64 * Math.sin((x * x * Math.cos(t / 4) + y * y * Math.sin(t / 3)) / 300)));
+        }
+
+        var B = function(x, y, t) {
+            return (Math.floor(192 + 64 * Math.sin(5 * Math.sin(t / 9) + ((x - 100) * (x - 100) + (y - 100) * (y - 100)) / 1100)));
+        }
+
+        var t = 0;
+
+        var run = function() {
+            for (x = 0; x <= 35; x++) {
+                for (y = 0; y <= 35; y++) {
+                    col(x, y, R(x, y, t), G(x, y, t), B(x, y, t));
+                }
             }
-        );
-    });
-</script>
+            t = t + 0.010;
+            window.requestAnimationFrame(run);
+        }
 
-<canvas id ='canv'>
+        run();
+        </script>
 
-<script language="javascript">
-var c = document.getElementById('canv');
-var $ = c.getContext('2d');
-document.body.clientWidth;
-var wh = 128;
-var w2h = wh * wh;
-c.width = c.height =  wh;
-var img = $.createImageData(wh, wh);
-var id = img.data;
-var t = 0;
-var inc = 1 / wh;
-var arr = [];
-
-for(var k = 0; k < w2h; ++k)
-   arr[k] = Math.random() * 1.5 - 0.5;
-
-function draw(){
-  window.requestAnimationFrame(draw);
-   t += inc;
-   for(var x = 1; x >= 0; x -= inc) {
-      for(var y = 1; y >= 0; y -= inc) {
-         var idx = (y * wh + x) * wh * 4;
-         var dx = x;
-         var dy = y;
-         var dist = Math.sqrt(dx * dx + dy * dy);
-         var ax = oct(x, y);
-         var ay = oct(x + 2, y + t / 3);
-         var bx = oct(x + dist * .3 + ax / 22 + 0.7, y + ay / 5 + 2);
-         var by = oct(x + ax / 3 + 4 * t, y + ay / 3 + 5);
-         var n = oct(x + bx / 5, y + by / 2) * 0.7 + .15;
-         var d = ax * by / 2;
-         var e = ay * bx / 2;
-        
-         id[idx + 0] = hue(n + d / 5);
-         id[idx + 1] = hue(n / 3 + e / 5 + d);
-         id[idx + 2] = hue(d + e);
-         id[idx + 3] = hue(1 - ease(dist) * (e + d) * 5)
-      }
-   }
-   $.putImageData(img, 0, 0);
-}
-function hue($) {
-   return 255 * Math.min(Math.max($, 0), 1);
-}
-function ease(x) {
-   return (x > 0.2) ? 0 : i(1, 0, x * 6);
-}
-var db = document.body;
-function i($, db, t) {
-   t = t * t * t * (6 * t * t - 15 * t + 10);
-   return $ + (db - $) * t;
-}
-function n(x, y) {
-   var i = Math.abs(x * wh + y) % w2h;
-   return arr[i];
-}
-function oct(x, y) {
-   var o1 = p(x * 3.0, y * 4.0);
-   var o2 = p(x * 4.0, y * 5.0);
-   return o1 + o2 * 0.5;
-}
-function p(x, y) {
-   var nx = Math.floor(x);
-   var ny = Math.floor(y);   
-   return i(i(n(nx, ny), n(nx + 1, ny), x - nx), i(n(nx, ny + 1), n(nx + 1, ny + 1), x - nx), y - ny);
-}
-draw();
-</script>  
-</canvas>
+  
 </body>
 </html>
