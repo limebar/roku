@@ -120,6 +120,29 @@
     },    
     {
       "id": "6",
+      "title": "NHAM",
+      "content": {
+        "dateAdded": "2025-01-18T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://azura.theindiebeat.fm/listen/nham/radio.mp3",
+            "quality": "HD",
+            "videoType": "SMOOTH"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_nham.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_nham.png",
+      "shortDescription": "NHAM curate mixtapes of brilliant sounds from The Fediverse every month. The NHAM channel on The Indie Beat Radio is a mixed tape of all the NHAM mixtapes. operated by https://nham.co.uk/",
+      "longDescription": "NHAM curate mixtapes of brilliant sounds from The Fediverse every month. The NHAM channel on The Indie Beat Radio is a mixed tape of all the NHAM mixtapes. operated by https://nham.co.uk/"
+    },
+    {
+      "id": "7",
       "title": "Live",
       "content": {
         "dateAdded": "2024-12-16T01:01:01+00:00",
