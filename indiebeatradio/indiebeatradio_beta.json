@@ -21,8 +21,8 @@
       "genres": [
         "Music"
       ],
-      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb.png",
+      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_everything.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_everything.png",
       "shortDescription": "A random shuffle of the firehose of Fedimusic. https://theindiebeat.fm/",
       "longDescription": "A random shuffle of the firehose of Fedimusic. https://theindiebeat.fm/"
     },
@@ -44,8 +44,8 @@
       "genres": [
         ""
       ],
-      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb.png",
+      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_ambient.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_ambient.png",
       "shortDescription": "Showcasing Ambient tunes from the Fediverse. https://theindiebeat.fm/",
       "longDescription": "Showcasing Ambient tunes from the Fediverse. https://theindiebeat.fm/"
     },    
@@ -67,8 +67,8 @@
       "genres": [
         ""
       ],
-      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb.png",
+      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_electronic.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_electronic.png",
       "shortDescription": "Showcasing Electronic tunes from the Fediverse. https://theindiebeat.fm/",
       "longDescription": "Showcasing Electronic tunes from the Fediverse. https://theindiebeat.fm/"
     }
@@ -91,8 +91,8 @@
       "genres": [
         ""
       ],
-      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb.png",
+      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_jazz.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_jazz.png",
       "shortDescription": "Showcasing Jazz tunes from the Fediverse. https://theindiebeat.fm/",
       "longDescription": "Showcasing Jazz tunes from the Fediverse. https://theindiebeat.fm/"
     }
@@ -115,8 +115,8 @@
       "genres": [
         ""
       ],
-      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb.png",
+      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_pop.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_pop.png",
       "shortDescription": "Showcasing Pop tunes from the Fediverse. https://theindiebeat.fm/",
       "longDescription": "Showcasing Pop tunes from the Fediverse. https://theindiebeat.fm/"
     }
@@ -139,13 +139,13 @@
       "genres": [
         ""
       ],
-      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb.png",
+      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_rock.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_rock.png",
       "shortDescription": "Showcasing Rock tunes from the Fediverse. https://theindiebeat.fm/",
       "longDescription": "Showcasing Rock tunes from the Fediverse. https://theindiebeat.fm/"
     }
   ],
-  "movies": [
+  "liveFeeds": [	  
     {
       "id": "7",
       "title": "Bonkwave",
@@ -164,8 +164,8 @@
       "genres": [
         ""
       ],
-      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb.png",
+      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_bonk.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_bonk.png",
       "shortDescription": "For all your BonkWave and NotBonkWave needs. Operated by http://bonkwave.org/",
       "longDescription": "For all your BonkWave and NotBonkWave needs. Operated by http://bonkwave.org/"
     },    
@@ -187,8 +187,8 @@
       "genres": [
         ""
       ],
-      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb.png",
+      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_nham.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_nham.png",
       "shortDescription": "NHAM curate mixtapes of brilliant sounds from The Fediverse every month. The NHAM channel on The Indie Beat Radio is a mixed tape of all the NHAM mixtapes. operated by https://nham.co.uk/",
       "longDescription": "NHAM curate mixtapes of brilliant sounds from The Fediverse every month. The NHAM channel on The Indie Beat Radio is a mixed tape of all the NHAM mixtapes. operated by https://nham.co.uk/"
     },
@@ -210,8 +210,8 @@
       "genres": [
         ""
       ],
-      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb.png",
+      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_spoken.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_spoken.png",
       "shortDescription": "Showcasing spoken word tracks from the Fediverse",
       "longDescription": "Showcasing spoken word tracks from the Fediverse"
     },
@@ -233,8 +233,8 @@
       "genres": [
         ""
       ],
-      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb.png",
+      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_live.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_live.png",
       "shortDescription": "The Indie Beat Radio also hosts a live streaming channel located at https://live.theindiebeat.fm/",
       "longDescription": "The Indie Beat Radio also hosts a live streaming channel located at https://live.theindiebeat.fm/"
     }    
