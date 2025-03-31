@@ -144,7 +144,8 @@
       "shortDescription": "Showcasing Rock tunes from the Fediverse. https://theindiebeat.fm/",
       "longDescription": "Showcasing Rock tunes from the Fediverse. https://theindiebeat.fm/"
     }
-	,
+  ]
+  "liveFeeds": [
     {
       "id": "7",
       "title": "Bonkwave",
