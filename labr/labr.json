@@ -1,0 +1,76 @@
+{
+  "providerName": "Love A Brother Radio",
+  "lastUpdated": "2025-05-12T01:01:01+00:00",
+  "language": "en",  
+  "liveFeeds": [
+    {
+      "id": "1",
+      "title": "1",
+      "content": {
+        "dateAdded": "2024-12-16T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "http://23.106.236.229:24914/stream",
+            "quality": "HD",
+            "videoType": "SMOOTH"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        "Music"
+      ],
+      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_everything.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_everything.png",
+      "shortDescription": "A random shuffle of the firehose of Fedimusic. https://theindiebeat.fm/",
+      "longDescription": "A random shuffle of the firehose of Fedimusic. https://theindiebeat.fm/"
+    },
+    {
+      "id": "2",
+      "title": "2",
+      "content": {
+        "dateAdded": "2024-12-16T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "http://89.38.96.70:8062/stream",
+            "quality": "HD",
+            "videoType": "SMOOTH"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_ambient.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_ambient.png",
+      "shortDescription": "Showcasing Ambient tunes from the Fediverse. https://theindiebeat.fm/",
+      "longDescription": "Showcasing Ambient tunes from the Fediverse. https://theindiebeat.fm/"
+    },    
+    {
+      "id": "3",
+      "title": "Live",
+      "content": {
+        "dateAdded": "2024-12-16T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://stream.labr.online/hls/stream.m3u8",
+            "quality": "HD",
+            "videoType": "SMOOTH"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_live.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_live.png",
+      "shortDescription": "The Indie Beat Radio also hosts a live streaming channel located at https://live.theindiebeat.fm/",
+      "longDescription": "The Indie Beat Radio also hosts a live streaming channel located at https://live.theindiebeat.fm/"
+    }    
+  ]
+}
