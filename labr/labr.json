@@ -5,7 +5,7 @@
   "liveFeeds": [
     {
       "id": "1",
-      "title": "1",
+      "title": "LABR 1",
       "content": {
         "dateAdded": "2024-12-16T01:01:01+00:00",
         "videos": [
@@ -28,7 +28,7 @@
     },
     {
       "id": "2",
-      "title": "2",
+      "title": "LABR 2",
       "content": {
         "dateAdded": "2024-12-16T01:01:01+00:00",
         "videos": [
@@ -51,7 +51,7 @@
     },    
     {
       "id": "3",
-      "title": "Live",
+      "title": "LABR Live",
       "content": {
         "dateAdded": "2024-12-16T01:01:01+00:00",
         "videos": [
