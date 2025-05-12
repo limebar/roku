@@ -21,8 +21,8 @@
       "genres": [
         "Music"
       ],
-      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_everything.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_everything.png",
+      "thumbnail": "https://limebar.github.io/roku/labr/thumb_1.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/labr/thumb_1.png",
       "shortDescription": "A random shuffle of the firehose of Fedimusic. https://theindiebeat.fm/",
       "longDescription": "A random shuffle of the firehose of Fedimusic. https://theindiebeat.fm/"
     },
@@ -44,8 +44,8 @@
       "genres": [
         ""
       ],
-      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_ambient.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_ambient.png",
+      "thumbnail": "https://limebar.github.io/roku/labr/thumb_2.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/labr/thumb_2.png",
       "shortDescription": "Showcasing Ambient tunes from the Fediverse. https://theindiebeat.fm/",
       "longDescription": "Showcasing Ambient tunes from the Fediverse. https://theindiebeat.fm/"
     },    
@@ -67,8 +67,8 @@
       "genres": [
         ""
       ],
-      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_live.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_live.png",
+      "thumbnail": "https://limebar.github.io/roku/labr/thumb_3.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/labr/thumb_3.png",
       "shortDescription": "The Indie Beat Radio also hosts a live streaming channel located at https://live.theindiebeat.fm/",
       "longDescription": "The Indie Beat Radio also hosts a live streaming channel located at https://live.theindiebeat.fm/"
     }    
