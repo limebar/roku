@@ -23,8 +23,8 @@
       ],
       "thumbnail": "https://limebar.github.io/roku/labr/thumb_1.png",
       "brandedThumbnail": "https://limebar.github.io/roku/labr/thumb_1.png",
-      "shortDescription": "A random shuffle of the firehose of Fedimusic. https://theindiebeat.fm/",
-      "longDescription": "A random shuffle of the firehose of Fedimusic. https://theindiebeat.fm/"
+      "shortDescription": "Love A Brother Radio channel 1 https://labr.online/",
+      "longDescription": "Love A Brother Radio channel 1 https://labr.online/"
     },
     {
       "id": "2",
@@ -46,8 +46,8 @@
       ],
       "thumbnail": "https://limebar.github.io/roku/labr/thumb_2.png",
       "brandedThumbnail": "https://limebar.github.io/roku/labr/thumb_2.png",
-      "shortDescription": "Showcasing Ambient tunes from the Fediverse. https://theindiebeat.fm/",
-      "longDescription": "Showcasing Ambient tunes from the Fediverse. https://theindiebeat.fm/"
+      "shortDescription": "Love A Brother Radio channel 2 https://labr.online/",
+      "longDescription": "Love A Brother Radio channel 2 https://labr.online/"
     },    
     {
       "id": "3",
@@ -69,8 +69,8 @@
       ],
       "thumbnail": "https://limebar.github.io/roku/labr/thumb_3.png",
       "brandedThumbnail": "https://limebar.github.io/roku/labr/thumb_3.png",
-      "shortDescription": "The Indie Beat Radio also hosts a live streaming channel located at https://live.theindiebeat.fm/",
-      "longDescription": "The Indie Beat Radio also hosts a live streaming channel located at https://live.theindiebeat.fm/"
+      "shortDescription": "Love A Brother Radio video stream https://stream.labr.online",
+      "longDescription": "Love A Brother Radio video stream https://stream.labr.online"
     }    
   ]
 }
