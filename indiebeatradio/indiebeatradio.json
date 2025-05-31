@@ -46,8 +46,8 @@
       ],
       "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_nham.png",
       "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_nham.png",
-      "shortDescription": "NHAM curate mixtapes of brilliant sounds from The Fediverse every month. The NHAM channel on The Indie Beat Radio is a mixed tape of all the NHAM mixtapes. operated by https://nham.co.uk/",
-      "longDescription": "NHAM curate mixtapes of brilliant sounds from The Fediverse every month. The NHAM channel on The Indie Beat Radio is a mixed tape of all the NHAM mixtapes. operated by https://nham.co.uk/"
+      "shortDescription": "NHAM curates mixtapes of brilliant sounds from The Fediverse every month. The NHAM channel on The Indie Beat Radio is a mixetape of all the NHAM mixtapes. Operated by https://nham.co.uk/",
+      "longDescription": "NHAM curates mixtapes of brilliant sounds from The Fediverse every month. The NHAM channel on The Indie Beat Radio is a mixtape of all the NHAM mixtapes. Operated by https://nham.co.uk/"
     },
     {
       "id": "10",
@@ -69,8 +69,8 @@
       ],
       "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_audiointerface.png",
       "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_audiointerface.png",
-      "shortDescription": "AudioInterface.org is home to independent electronic music podcasts that span electronica, ambient, experimental, techno and guest mixes.",
-      "longDescription": "AudioInterface.org is home to independent electronic music podcasts that span electronica, ambient, experimental, techno and guest mixes."
+      "shortDescription": "AudioInterface.org is home to independent electronic music podcasts that span electronica, ambient, experimental, techno and guest mixes. Operated by https://audiointerface.org",
+      "longDescription": "AudioInterface.org is home to independent electronic music podcasts that span electronica, ambient, experimental, techno and guest mixes. Operated by https://audiointerface.org"
     },
     {
       "id": "1",
@@ -211,7 +211,7 @@
       "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_rock.png",
       "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_rock.png",
       "shortDescription": "Showcasing Rock tunes from the Fediverse. https://theindiebeat.fm/",
-      "longDescription": "Showcasing Rock tunes from the Fediverse. https://theindiebeat.fm/"
+      "longDescription": "Showcasing Rock tunes from the Fediverse."
     },
     {
       "id": "9",
@@ -233,8 +233,8 @@
       ],
       "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_spoken.png",
       "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_spoken.png",
-      "shortDescription": "Showcasing spoken word tracks from the Fediverse",
-      "longDescription": "Showcasing spoken word tracks from the Fediverse"
+      "shortDescription": "Showcasing spoken word tracks from the Fediverse. https://theindiebeat.fm/",
+      "longDescription": "Showcasing spoken word tracks from the Fediverse. https://theindiebeat.fm/"
     },
     {
       "id": "11",
@@ -256,8 +256,8 @@
       ],
       "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_live.png",
       "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_live.png",
-      "shortDescription": "The Indie Beat Radio also hosts a live streaming channel located at https://live.theindiebeat.fm/",
-      "longDescription": "The Indie Beat Radio also hosts a live streaming channel located at https://live.theindiebeat.fm/"
+      "shortDescription": "The Indie Beat Radio hosts a live streaming channel located at https://live.theindiebeat.fm/ - check the site for scheduled events and to learn how you can broadcast your live music event.",
+      "longDescription": "The Indie Beat Radio hosts a live streaming channel located at https://live.theindiebeat.fm/ - check the site for scheduled events and to learn how you can broadcast your live music event."
     }    
   ]
 }
