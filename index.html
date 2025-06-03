@@ -1,13 +1,31 @@
 <html>
-  
+<head>
+<style>
+.photos img:hover {
+    -webkit-transform: scale(1.5);
+    -moz-transform: scale(1.5);
+    -o-transform: scale(1.5);
+    transform: scale(1.5);
+    z-index: 10;
+}
+.photos img {
+    -webkit-transition: all 0.5s ease-out;
+    -moz-transition: all 0.5s ease-out;
+    -o-transition: all 0.5s ease-out;
+    transition: all 0.5s ease-out;
+}
+</style>
+
+</head>  
 <body>
+<div class="photos">
   <center>       
         <a href="https://channelstore.roku.com/details/1935236acb98278a728dd17721fc3bbf/the-indie-beat-radio" title="The Indie Beat FM">
-           <img width=200 height=200 src="images/tibrlogo400x400.jpg" alt="TheIndieBeatFM" />
+           <img width=200 height=200 src="images/tibrlogo400x400.png" alt="TheIndieBeatFM" />
         </a>
         
         <a href="https://channelstore.roku.com/details/6727005e5d8b65c34d15d02a6bcae446/basspistol-libre-radio" title="Basspistol - Outernational Music Syndicate">
-           <img width=200 height=200 src="images/basslogo400x400.jpg" alt="Basspistol" />
+           <img width=200 height=200 src="images/basslogo400x400.png" alt="Basspistol" />
         </a>
         
         <a href="https://channelstore.roku.com/details/df89e33f50f7bca486e8a5d6806449ea/retrostrange-tv" title="RetroStrange TV - Public Domain Weirdness">
@@ -32,6 +50,6 @@
            <img width=200 height=200 src="images/colorcycle800x600.png" alt="Color Cycle Screensaver" />
         </a>
   </center>  
-  
+</div>  
 </body>
 </html>
