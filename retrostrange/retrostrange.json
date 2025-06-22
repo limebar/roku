@@ -22,10 +22,10 @@
       "genres": [
         "Retro TV"
       ],
-      "thumbnail": "https://limebar.github.io/roku/retrostrange/RSTV1%20Roku%20Thumb.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/retrostrange/RSTV1%20Roku%20Thumb.png",
+      "thumbnail":        "https://limebar.github.io/roku/retrostrange/thumb_tv1.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/retrostrange/thumb_tv1.png",
       "shortDescription": "A community-supported 24/7 streaming TV channel based on public domain media and original content. Support us at http://patreon.com/philnelson",
-      "longDescription": "A community-supported 24/7 streaming TV channel based on public domain media and original content. Support us at http://patreon.com/philnelson"
+      "longDescription":  "A community-supported 24/7 streaming TV channel based on public domain media and original content. Support us at http://patreon.com/philnelson"
     },
     {
       "id": "2",
@@ -46,10 +46,10 @@
       "genres": [
         "Retro Halloween"
       ],
-      "thumbnail": "https://limebar.github.io/roku/retrostrange/RSTV%20Halloween%20Roku%20Thumb.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/retrostrange/RSTV%20Halloween%20Roku%20Thumb.png",
+      "thumbnail":        "https://limebar.github.io/roku/retrostrange/thumb_tv2.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/retrostrange/thumb_tv2.png",
       "shortDescription": "RetroStrange Halloween Channel, part of RetroStrange.com, is a community supported 24/7 streaming station featuring Halloween-themed content.",
-      "longDescription": "RetroStrange Halloween Channel, part of RetroStrange.com, is a community supported 24/7 streaming station featuring Halloween-themed content."
+      "longDescription":  "RetroStrange Halloween Channel, part of RetroStrange.com, is a community supported 24/7 streaming station featuring Halloween-themed content."
     },      
     {
       "id": "3",
@@ -70,10 +70,10 @@
       "genres": [
         "Retro Radio"
       ],
-      "thumbnail": "https://limebar.github.io/roku/retrostrange/RSRadio1%20Thumb.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/retrostrange/RSRadio1%20Thumb.png",
+      "thumbnail":        "https://limebar.github.io/roku/retrostrange/thumb_radio1.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/retrostrange/thumb_radio1.png",
       "shortDescription": "RetroStrange Radio1 - A 24/7 stream of Old Time Radio science fiction programs such as Dimension X and X-Minus One.",
-      "longDescription": "RetroStrange Radio1 - A 24/7 stream of Old Time Radio science fiction programs such as Dimension X and X-Minus One."
+      "longDescription":  "RetroStrange Radio1 - A 24/7 stream of Old Time Radio science fiction programs such as Dimension X and X-Minus One."
     },    
     {
       "id": "4",
@@ -94,10 +94,10 @@
       "genres": [
         "Retro Radio"
       ],
-      "thumbnail": "https://limebar.github.io/roku/retrostrange/RSRadio2%20Thumb.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/retrostrange/RSRadio2%20Thumb.png",
+      "thumbnail":        "https://limebar.github.io/roku/retrostrange/thumb_radio2.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/retrostrange/thumb_radio2.png",
       "shortDescription": "RetroStrange Radio2 - A 24/7 stream of public domain music from the 1920s and 1930s.",
-      "longDescription": "RetroStrange Radio2 - A 24/7 stream of public domain music from the 1920s and 1930s."
+      "longDescription":  "RetroStrange Radio2 - A 24/7 stream of public domain music from the 1920s and 1930s."
     },
     {
       "id": "5",
