@@ -16,7 +16,7 @@ jazzMusic =       playlist(mode="randomize", reload_mode="watch", "./videos/musi
 jingles =         playlist(mode="randomize", reload_mode="watch", "./videos/jingles/")               # path to station break videos
 candy =           playlist(mode="randomize", reload_mode="watch", "./videos/candy/")                 # path to eye candy
 safe =            single("./videos/safe/tibr.mp4")                                                   # path to known good video in case of failure
-live =            input.rtmp("rtmp://localhost:8081/live/STREAM_KEY",listen=true)                               # start an rtmp server to listen for live stream
+live =            input.rtmp("rtmp://localhost:8081/live/STREAM_KEY",listen=true)                    # start an rtmp server to listen for live stream
 
 #
 # setup schedule and rotation and fallback
@@ -61,7 +61,7 @@ s.on_metadata(update_current_song) # when track changes, update globals from mp4
 # add overlays for metadata and images at bottom of screen
 #
 s = video.add_rectangle( color=0x333333, alpha=0.5, x=0, y=616, width=1280, height=108, s) # transparent band across bottom
-s = video.add_cover( x=20, y=636, width=64, height=64, default="https://theindiebeat.fm/wp-content/uploads/2025/01/cropped-Catellite-TIBR-lime-1500x1500-1-192x192.png", s ) # tibr logo unless cover
+s = video.add_cover( x=20, y=636, width=64, height=64, default="./videos/safe/tibrcatellite.png", s ) # tibr logo unless cover
 s = video.add_image( x=1196, y=636, width=64, height=64, file=current_qr, s ) # qr code for artist link
 s = video.add_text(color=0x000000, speed=0, x=96, y=638, size=18, current_artist, s) # drop shadow hack
 s = video.add_text(color=0xb4fb51, speed=0, x=94, y=636, size=18, current_artist, s)
