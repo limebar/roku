@@ -16,7 +16,7 @@ jazzMusic =       playlist(mode="randomize", reload_mode="watch", "./videos/musi
 jingles =         playlist(mode="randomize", reload_mode="watch", "./videos/jingles/")               # path to station break videos
 candy =           playlist(mode="randomize", reload_mode="watch", "./videos/candy/")                 # path to eye candy
 safe =            single("./videos/safe/tibr.mp4")                                                   # path to known good video in case of failure
-live =            input.rtmp("rtmp://localhost:8081/live",listen=true)                               # start an rtmp server to listen for live stream
+live =            input.rtmp("rtmp://localhost:8081/live/STREAM_KEY",listen=true)                               # start an rtmp server to listen for live stream
 
 #
 # setup schedule and rotation and fallback
