@@ -7,12 +7,12 @@ settings.frame.video.height := 720
 #
 # setup sources
 #
-allMusic =        playlist(mode="randomize", reload_mode="watch", "./videos/musicVideos")            # path to all videos to play
-electronicMusic = playlist(mode="randomize", reload_mode="watch", "./videos/musicVideos/electronic") # path to electronic videos to play
-ambientMusic =    playlist(mode="randomize", reload_mode="watch", "./videos/musicVideos/ambient")    # path to ambient videos to play
-popMusic =        playlist(mode="randomize", reload_mode="watch", "./videos/musicVideos/pop")        # path to pop videos to play
-rockMusic =       playlist(mode="randomize", reload_mode="watch", "./videos/musicVideos/rock")       # path to rock videos to play
-jazzMusic =       playlist(mode="randomize", reload_mode="watch", "./videos/musicVideos/jazz")       # path to jazz videos to play
+allMusic =        playlist(mode="randomize", reload_mode="watch", "./videos/musicVideos/")            # path to all videos to play
+electronicMusic = playlist(mode="randomize", reload_mode="watch", "./videos/musicVideos/electronic/") # path to electronic videos to play
+ambientMusic =    playlist(mode="randomize", reload_mode="watch", "./videos/musicVideos/ambient/")    # path to ambient videos to play
+popMusic =        playlist(mode="randomize", reload_mode="watch", "./videos/musicVideos/pop/")        # path to pop videos to play
+rockMusic =       playlist(mode="randomize", reload_mode="watch", "./videos/musicVideos/rock/")       # path to rock videos to play
+jazzMusic =       playlist(mode="randomize", reload_mode="watch", "./videos/musicVideos/jazz/")       # path to jazz videos to play
 jingles =         playlist(mode="randomize", reload_mode="watch", "./videos/jingles/")               # path to station break videos
 candy =           playlist(mode="randomize", reload_mode="watch", "./videos/candy/")                 # path to eye candy
 safe =            single("./videos/safe/tibr.mp4")                                                   # path to known good video in case of failure
@@ -47,12 +47,14 @@ current_album = ref("")
 current_www = ref("")
 current_qr = ref("")
 
+
 def update_current_song(m) =
   current_title := m["title"]      # pull out metadata and populate globals
   current_artist := m["artist"] 
   current_album := m["album"] 
   current_www := m["www"] 
   current_qr := "https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=#{current_www()}"  
+  ignore(file.write(data="{\"song\":{\"link\":\"#{current_www()}\",\"artist\":\"#{current_artist()}\",\"title\":\"#{current_title()}\",\"album\":\"#{current_album()}\"}}", append=false, "nowplaying.json"))  
 end
 
 s.on_metadata(update_current_song) # when track changes, update globals from mp4 metadata
