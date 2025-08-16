@@ -7,32 +7,41 @@ settings.frame.video.height := 720
 #
 # setup sources
 #
-allMusic =        playlist(mode="randomize", reload_mode="watch", "./videos/musicVideos/")            # path to all videos to play
-electronicMusic = playlist(mode="randomize", reload_mode="watch", "./videos/musicVideos/electronic/") # path to electronic videos to play
-ambientMusic =    playlist(mode="randomize", reload_mode="watch", "./videos/musicVideos/ambient/")    # path to ambient videos to play
-popMusic =        playlist(mode="randomize", reload_mode="watch", "./videos/musicVideos/pop/")        # path to pop videos to play
-rockMusic =       playlist(mode="randomize", reload_mode="watch", "./videos/musicVideos/rock/")       # path to rock videos to play
-jazzMusic =       playlist(mode="randomize", reload_mode="watch", "./videos/musicVideos/jazz/")       # path to jazz videos to play
-jingles =         playlist(mode="randomize", reload_mode="watch", "./videos/jingles/")               # path to station break videos
-candy =           playlist(mode="randomize", reload_mode="watch", "./videos/candy/")                 # path to eye candy
-safe =            single("./videos/safe/tibr.mp4")                                                   # path to known good video in case of failure
-live =            input.rtmp("rtmp://localhost:8081/live/STREAM_KEY",listen=true)                    # start an rtmp server to listen for live stream
+safe =     single("./videos/safe/tibr.mp4")                                                    # path to known good video in case of failure
+live =     input.rtmp("rtmp://localhost:8081/live/STREAM_KEY",listen=true)                     # start an rtmp server to listen for live stream
+jingles =  playlist(mode="randomize", reload_mode="watch", "./videos/jingles/")                # path to station break videos
+candy =    playlist(mode="randomize", reload_mode="watch", "./videos/candy/")                  # path to eye candy
+eleMusic = playlist(mode="randomize", reload_mode="watch", "./videos/musicVideos/electronic/") # path to program videos
+ambMusic = playlist(mode="randomize", reload_mode="watch", "./videos/musicVideos/ambient/")    # 
+popMusic = playlist(mode="randomize", reload_mode="watch", "./videos/musicVideos/pop/")        # 
+rocMusic = playlist(mode="randomize", reload_mode="watch", "./videos/musicVideos/rock/")       # 
+jazMusic = playlist(mode="randomize", reload_mode="watch", "./videos/musicVideos/jazz/")       # 
+nhaMusic = playlist(mode="randomize", reload_mode="watch", "./videos/musicVideos/nham/")       # 
+allMusic = playlist(mode="randomize", reload_mode="watch", "./videos/musicVideos/")            # path to all videos 
+eleTitle = single("./videos/showTitles/electronic.mp4")                                        # path to program titles 
+ambTitle = single("./videos/showTitles/ambient.mp4")                                           #
+popTitle = single("./videos/showTitles/pop.mp4")                                               # 
+rocTitle = single("./videos/showTitles/rock.mp4")                                              #  
+jazTitle = single("./videos/showTitles/jazz.mp4")                                              # 
+nhaTitle = single("./videos/showTitles/pop.mp4")                                               #
 
 #
 # setup schedule and rotation and fallback
 #
 schedule = switch(
 	[
-	  ( {04h00-05h00}, jazzMusic), 
-	  ( {05h00-06h00}, electronicMusic), 
-	  ( {06h00-07h00}, rockMusic), 
-	  ( {07h00-08h00}, popMusic), 
-	  ( {08h00-10h00}, ambientMusic),
-	  ( {16h00-17h00}, jazzMusic), 
-	  ( {17h00-18h00}, electronicMusic), 
-	  ( {18h00-19h00}, rockMusic), 
-	  ( {19h00-20h00}, popMusic), 
-	  ( {20h00-22h00}, ambientMusic),
+	  ( {04h00-05h00}, rotate(weights=[1, 4], [jazTitle, jazMusic]) ), 
+	  ( {05h00-06h00}, rotate(weights=[1, 4], [eleTitle, eleMusic]) ), 
+	  ( {06h00-07h00}, rotate(weights=[1, 4], [rocTitle, rocMusic]) ), 
+	  ( {07h00-08h00}, rotate(weights=[1, 4], [popTitle, popMusic]) ), 
+	  ( {08h00-09h00}, rotate(weights=[1, 4], [ambTitle, ambMusic]) ),
+	  ( {09h00-10h00}, rotate(weights=[1, 4], [nhaTitle, nhaMusic]) ),
+	  ( {16h00-17h00}, rotate(weights=[1, 4], [jazTitle, jazMusic]) ), 
+	  ( {17h00-18h00}, rotate(weights=[1, 4], [eleTitle, eleMusic]) ), 
+	  ( {18h00-19h00}, rotate(weights=[1, 4], [rocTitle, rocMusic]) ), 
+	  ( {19h00-20h00}, rotate(weights=[1, 4], [popTitle, popMusic]) ), 
+	  ( {20h00-21h00}, rotate(weights=[1, 4], [ambTitle, ambMusic]) ),
+	  ( {21h00-22h00}, rotate(weights=[1, 4], [nhaTitle, nhaMusic]) ),
 	  ( {true}, allMusic )
     ] )	
 s = rotate(weights=[1, 4, 1, 2], [jingles, schedule, candy, schedule])  # play 1 jingle, 4 videos, 1 candy, 2 videos
@@ -83,7 +92,7 @@ encoder3k = %ffmpeg(
 )				 
 encoder1k = %ffmpeg(
     format="flv", 
-    %video(codec="libx264", "x264-params"="keyint=60:min-keyint=60:scenecut=0:tune=zerolatency", hwaccel="auto", pixel_format="yuv420p", b="1000k", preset="veryfast", r=25, g=50),
+    %video(codec="libx264", "x264-params"="keyint=60:min-keyint=60:scenecut=0:tune=zerolatency", hwaccel="auto", pixel_format="yuv420p", b="1000k", preset="superfast", r=25, g=50),
     %audio( codec="aac", b="128k", samplerate=48000 )
 )
 #
