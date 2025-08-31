@@ -71,9 +71,13 @@ Copy all files into /media/tibrtv/
    		       <list of mp4 files for general rotation not in any program slot>
 ```
 
+## QR Code Generation
 Use cron job every 4 hours to run genQR.sh:
-    /media/tibrtv/genQR/genQR.sh /media/tibrtv/
-	
+```
+    /media/tibrtv/genQR/genQR.sh /media/tibrtv
+```
+
+## Misc
 Requires liquidsoap 2.3.3 or greater to support add_cover() - use OCAML 4 version for Noble on 24.04 LTS https://github.com/savonet/liquidsoap/releases/tag/v2.3.3
 
 Useful links:
