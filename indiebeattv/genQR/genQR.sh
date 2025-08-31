@@ -38,7 +38,7 @@ find "$SEARCH_DIR" -type f -iname "*.mp4" | while read -r file; do
     # which feeds the variable's content as standard input.
     # 'awk' is used to get the first field, which is the hash.
     #www_tag_hash=$(echo -n "$www_tag_value" | md5sum | awk '{print $1}')
-	www_tag_hash=$(echo "$www_tag_value" | tr -d '\/.:\\')
+	www_tag_hash=$(echo "$www_tag_value" | tr -d '\/.&?|*"<>:\\')
 
     # Print the file path, the extracted tag value, and its hash.
     echo "File: $file"
