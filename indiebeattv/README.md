@@ -1,8 +1,8 @@
-#The Indie Beat Television 
+# The Indie Beat Television 
 
 A liquidsoap implementation of a music video 24x7 broadcast channel for https://theindiebeat.fm
 
-##Features:
+## Features:
 - Scheduled program slots for Rock, Pop, Jazz, Electronic, Ambient music
 - Scheduled program slots for Animation Array and NHAM curated shows
 - Remainder of time is shuffle play of all music videos
@@ -19,7 +19,7 @@ Really good quality running on a contabo 6 core VPS Ubuntu 24.04LTS with 1080p M
 
 Copy all files into /media/tibrtv/ 
 
-##Directory structure
+## Directory structure
 ```
 /media
    /tibrtv
