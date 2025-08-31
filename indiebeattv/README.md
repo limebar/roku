@@ -72,13 +72,18 @@ Copy all files into /media/tibrtv/
 ```
 
 ## QR Code Generation
-Use cron job every 4 hours to run genQR.sh:
+Use cron job every 4 hours to run genQR.sh (trailing / is important):
 ```
-    /media/tibrtv/genQR/genQR.sh /media/tibrtv
+    ./media/tibrtv/genQR/genQR.sh /media/tibrtv/
 ```
 
 ## Misc
-Requires liquidsoap 2.3.3 or greater to support add_cover() - use OCAML 4 version for Noble on 24.04 LTS https://github.com/savonet/liquidsoap/releases/tag/v2.3.3
+Requires liquidsoap 2.3.3 or greater to support add_cover() - use OCAML 4 version for Noble on 24.04 LTS
+-  https://github.com/savonet/liquidsoap/releases/tag/v2.3.3
+Download and install 2.3.3 deb package: 
+```
+sudo dpkg -i liquidsoap_2.3.3-ubuntu-noble-ocaml4.14.2-1_amd64.deb
+```
 
 Useful links:
 - https://github.com/savonet/liquidsoap/discussions/4630 handle leak
