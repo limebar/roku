@@ -1,8 +1,8 @@
-The Indie Beat Television 
+#The Indie Beat Television 
 
 A liquidsoap implementation of a music video 24x7 broadcast channel for https://theindiebeat.fm
 
-Features:
+##Features:
 - Scheduled program slots for Rock, Pop, Jazz, Electronic, Ambient music
 - Scheduled program slots for Animation Array and NHAM curated shows
 - Remainder of time is shuffle play of all music videos
@@ -19,7 +19,8 @@ Really good quality running on a contabo 6 core VPS Ubuntu 24.04LTS with 1080p M
 
 Copy all files into /media/tibrtv/ 
 
-Directory structure
+##Directory structure
+```
 /media
    /tibrtv
 	  tibr.liq
@@ -68,6 +69,7 @@ Directory structure
    		       <list of mp4 files>
 			/misc
    		       <list of mp4 files for general rotation not in any program slot>
+```
 
 Use cron job every 4 hours to run genQR.sh:
     /media/tibrtv/genQR/genQR.sh /media/tibrtv/
@@ -75,20 +77,19 @@ Use cron job every 4 hours to run genQR.sh:
 Requires liquidsoap 2.3.3 or greater to support add_cover() - use OCAML 4 version for Noble on 24.04 LTS https://github.com/savonet/liquidsoap/releases/tag/v2.3.3
 
 Useful links:
-https://github.com/savonet/liquidsoap/discussions/4630 handle leak
-https://github.com/savonet/liquidsoap/discussions/4606 recursion watch
-https://github.com/savonet/liquidsoap/discussions/4607 rtmp security
-https://github.com/savonet/liquidsoap/discussions/4611 add_cover() for video files
-https://github.com/savonet/liquidsoap/discussions/4649 daemon restart
-
-https://github.com/savonet/liquidsoap/releases/tag/v2.3.3
-https://www.liquidsoap.info/doc-2.3.3/reference.html#url.encode
-https://mikulski.rocks/creating-a-24-7-lofi-like-stream-part-2/
-https://www.liquidsoap.info/blog/2024-02-10-video-canvas-and-ai/
-https://installati.one/install-liquidsoap-ubuntu-20-04/
-https://medium.com/@moniruzzamanshimul/how-to-set-up-and-automount-an-oci-object-storage-on-ubuntu-using-s3fs-fb0b7f26eaa4
-https://mikulski.rocks/buffer-for-overlays-liquidsoap/
-https://www.liquidsoap.info/blog/2023-03-10-how-to-run-a-http-server-with-liquidsoap/
+- https://github.com/savonet/liquidsoap/discussions/4630 handle leak
+- https://github.com/savonet/liquidsoap/discussions/4606 recursion watch
+- https://github.com/savonet/liquidsoap/discussions/4607 rtmp security
+- https://github.com/savonet/liquidsoap/discussions/4611 add_cover() for video files
+- https://github.com/savonet/liquidsoap/discussions/4649 daemon restart
+- https://github.com/savonet/liquidsoap/releases/tag/v2.3.3
+- https://www.liquidsoap.info/doc-2.3.3/reference.html#url.encode
+- https://mikulski.rocks/creating-a-24-7-lofi-like-stream-part-2/
+- https://www.liquidsoap.info/blog/2024-02-10-video-canvas-and-ai/
+- https://installati.one/install-liquidsoap-ubuntu-20-04/
+- https://medium.com/@moniruzzamanshimul/how-to-set-up-and-automount-an-oci-object-storage-on-ubuntu-using-s3fs-fb0b7f26eaa4
+- https://mikulski.rocks/buffer-for-overlays-liquidsoap/
+- https://www.liquidsoap.info/blog/2023-03-10-how-to-run-a-http-server-with-liquidsoap/
 
 
 
