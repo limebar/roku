@@ -86,14 +86,16 @@ Useful links:
 - https://github.com/savonet/liquidsoap/discussions/4607 rtmp security
 - https://github.com/savonet/liquidsoap/discussions/4611 add_cover() for video files
 - https://github.com/savonet/liquidsoap/discussions/4649 daemon restart
-- https://github.com/savonet/liquidsoap/releases/tag/v2.3.3
-- https://www.liquidsoap.info/doc-2.3.3/reference.html#url.encode
-- https://mikulski.rocks/creating-a-24-7-lofi-like-stream-part-2/
-- https://www.liquidsoap.info/blog/2024-02-10-video-canvas-and-ai/
-- https://installati.one/install-liquidsoap-ubuntu-20-04/
-- https://medium.com/@moniruzzamanshimul/how-to-set-up-and-automount-an-oci-object-storage-on-ubuntu-using-s3fs-fb0b7f26eaa4
-- https://mikulski.rocks/buffer-for-overlays-liquidsoap/
-- https://www.liquidsoap.info/blog/2023-03-10-how-to-run-a-http-server-with-liquidsoap/
+- https://www.liquidsoap.info/doc-2.3.3/reference.html# reference 
+- https://github.com/savonet/liquidsoap/discussions discussion
+- https://github.com/savonet/liquidsoap/releases/tag/v2.3.3 v2.3.3 release (not in apt yet)
+- https://www.liquidsoap.info/doc-2.3.3/reference.html#url.encode 
+- https://mikulski.rocks/creating-a-24-7-lofi-like-stream-part-2/ tutorial
+- https://www.liquidsoap.info/blog/2024-02-10-video-canvas-and-ai/ overlays 
+- https://installati.one/install-liquidsoap-ubuntu-20-04/ apt install
+- https://medium.com/@moniruzzamanshimul/how-to-set-up-and-automount-an-oci-object-storage-on-ubuntu-using-s3fs-fb0b7f26eaa4 s3 object storage mounting
+- https://mikulski.rocks/buffer-for-overlays-liquidsoap/ buffer for overlays for async performance
+- https://www.liquidsoap.info/blog/2023-03-10-how-to-run-a-http-server-with-liquidsoap/ exposing a simple http server
 
 
 
