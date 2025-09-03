@@ -90,6 +90,14 @@ end
 s.on_metadata(update_current_song) # when track changes, update globals from mp4 metadata
 
 #
+# expose nowplaying info via http
+#
+def get_meta(_, response) =
+  response.json(current_np())
+end
+harbor.http.register(port=8081, method="GET", "/nowplaying", get_meta)
+
+#
 # add overlays for metadata and images at bottom of screen 
 #
 overlay = blank()
