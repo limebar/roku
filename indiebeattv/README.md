@@ -14,6 +14,7 @@ A liquidsoap implementation of a music video 24x7 broadcast channel for https://
 - Can run as an auto-restart init.d daemon
 - Displays station logo, artist, title, album metadata and a qr code to the artist WWW link pulled from the MP4 video metadata during playback
 - Also writes a nowplaying.json file for each new video from MP4 metadata
+- Also exposes an http /nowplaying endpoint for json nowplaying info
 
 Really good quality running on a contabo 6 core VPS Ubuntu 24.04LTS with 1080p MP4 videos and 720p output stream directed at Owncast server running on the same VPS. Struggles with 4k videos.
 
