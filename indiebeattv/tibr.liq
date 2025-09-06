@@ -84,7 +84,8 @@ def update_current_song(m) =
   #
   # write a now playing file
   #
-  ignore(file.write(data="{\"song\":{\"link\":\"#{current_www()}\",\"artist\":\"#{current_artist()}\",\"title\":\"#{current_title()}\",\"album\":\"#{current_album()}\"}}", append=false, "#{tibrtv}/nowplaying.json"))  
+  current_np := '{"song":{"link":"#{current_www()}","artist":"#{current_artist()}","title":"#{current_title()}","album":"#{current_album()}","played_at":#{int_of_float(time())}}}' 
+  ignore(file.write(data=current_np(), append=false, "#{tibrtv}/nowplaying.json"))  
 end
 
 s.on_metadata(update_current_song) # when track changes, update globals from mp4 metadata
@@ -93,7 +94,8 @@ s.on_metadata(update_current_song) # when track changes, update globals from mp4
 # expose nowplaying info via http
 #
 def get_meta(_, response) =
-  response.json(current_np())
+  response.data(current_np())
+  response.content_type("application/json")
 end
 harbor.http.register(port=8081, method="GET", "/nowplaying", get_meta)
 
