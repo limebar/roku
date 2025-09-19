@@ -4,6 +4,29 @@
   "language": "en",  
   "liveFeeds": [
     {
+      "id": "11",
+      "title": "Live",
+      "content": {
+        "dateAdded": "2024-12-16T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://live.theindiebeat.fm/hls/stream.m3u8",
+            "quality": "HD",
+            "videoType": "SMOOTH"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_live.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_live.png",
+      "shortDescription": "The Indie Beat Radio hosts a live streaming channel located at https://live.theindiebeat.fm/ - check the site for scheduled events and to learn how you can broadcast your live music event.",
+      "longDescription": "The Indie Beat Radio hosts a live streaming channel located at https://live.theindiebeat.fm/ - check the site for scheduled events and to learn how you can broadcast your live music event."
+    },    
+    {
       "id": "7",
       "title": "Bonkwave",
       "content": {
@@ -235,29 +258,6 @@
       "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_spoken.png",
       "shortDescription": "Showcasing spoken word tracks from the Fediverse. https://theindiebeat.fm/",
       "longDescription": "Showcasing spoken word tracks from the Fediverse. https://theindiebeat.fm/"
-    },
-    {
-      "id": "11",
-      "title": "Live",
-      "content": {
-        "dateAdded": "2024-12-16T01:01:01+00:00",
-        "videos": [
-          {
-            "url": "https://live.theindiebeat.fm/hls/stream.m3u8",
-            "quality": "HD",
-            "videoType": "SMOOTH"
-          }
-        ],
-        "duration": 9999,
-        "language": "en"
-      },
-      "genres": [
-        ""
-      ],
-      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_live.png",
-      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_live.png",
-      "shortDescription": "The Indie Beat Radio hosts a live streaming channel located at https://live.theindiebeat.fm/ - check the site for scheduled events and to learn how you can broadcast your live music event.",
-      "longDescription": "The Indie Beat Radio hosts a live streaming channel located at https://live.theindiebeat.fm/ - check the site for scheduled events and to learn how you can broadcast your live music event."
-    }    
+    }
   ]
 }
