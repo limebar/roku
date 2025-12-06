@@ -2,7 +2,7 @@
   "providerName": "Indie Beat Radio",
   "lastUpdated": "2025-03-02T01:01:01+00:00",
   "language": "en",  
-  "liveFeeds": [
+  "movies": [
     {
       "id": "11",
       "title": "TV",
@@ -48,7 +48,8 @@
       "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_live.png",
       "shortDescription": "The Indie Beat Radio hosts a live streaming channel located at https://live.theindiebeat.fm/ - check the site for scheduled events and to learn how you can broadcast your live music event.",
       "longDescription": "The Indie Beat Radio hosts a live streaming channel located at https://live.theindiebeat.fm/ - check the site for scheduled events and to learn how you can broadcast your live music event."
-    },    
+    } ]
+  "liveFeeds": [
     {
       "id": "7",
       "title": "Bonkwave",
