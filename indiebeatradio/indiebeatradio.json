@@ -5,6 +5,29 @@
   "liveFeeds": [
     {
       "id": "11",
+      "title": "TV",
+      "content": {
+        "dateAdded": "2024-12-16T01:01:01+00:00",
+        "videos": [
+          {
+            "url": "https://tv.theindiebeat.fm/hls/stream.m3u8",
+            "quality": "HD",
+            "videoType": "SMOOTH"
+          }
+        ],
+        "duration": 9999,
+        "language": "en"
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_tv.png",
+      "brandedThumbnail": "https://limebar.github.io/roku/indiebeatradio/thumb_tv.png",
+      "shortDescription": "The Indie Beat TV, 24x7 stream of music videos from across the fediverse at https://tv.theindiebeat.fm/ ",
+      "longDescription": "The Indie Beat TV, 24x7 stream of music videos from across the fediverse at https://tv.theindiebeat.fm/ "
+    },    
+    {
+      "id": "11",
       "title": "Live",
       "content": {
         "dateAdded": "2024-12-16T01:01:01+00:00",
