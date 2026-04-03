@@ -1,5 +1,7 @@
-# roku
-A github pages repo for Roku app assets
+Moved to codeberg 
+https://codeberg.org/limebar/roku
 
-See this pages link for links to all Roku apps and screensavers with assets hosted here:
-https://limebar.github.io/roku/
+See 'pages' branch
+
+Exposed via grebedoc.dev
+https://limebar.grebedoc.dev/roku/
